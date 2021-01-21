@@ -8,10 +8,11 @@ Deux nouveaux véhicules apparaissent aléatoirement sur la carte tout les 3 cyc
 
 # Installation
 
-Executez mvn clean install
-
-Puis mvn eclipse:eclipse
-
+Executez 
+```
+mvn clean install
+mvn eclipse:eclipse
+```
 Pour importer les dépendances JavaFX dans le projet.
 
 # Legende
