@@ -1,190 +1,2203 @@
-[+] Ajout | Voiture id:0
-[+] Ajout | Voiture id:1
-[!] Accident | (1,4)
-[+] Ajout | Voiture id:2
-[+] Ajout | Voiture id:3
-[-] Suppression | Voiture id:0 supprimé de la carte.
-[-] Suppression | Voiture id:1 supprimé de la carte.
-[+] Ajout | Voiture id:4
-[+] Ajout | Voiture id:5
-[!] Accident | (2,2)
-[-] Suppression | Voiture id:3 supprimé de la carte.
-[-] Suppression | Voiture id:2 supprimé de la carte.
-[+] Ajout | Voiture id:6
-[+] Ajout | Voiture id:7
-[+] Ajout | Voiture id:8
-[+] Ajout | Voiture id:9
-[!] Accident | (3,3)
-[-] Suppression | Voiture id:4 supprimé de la carte.
-[-] Suppression | Voiture id:5 supprimé de la carte.
-[-] Suppression | Voiture id:7 supprimé de la carte.
-[-] Suppression | Voiture id:6 supprimé de la carte.
-[+] Ajout | Voiture id:10
-[+] Ajout | Voiture id:11
-[+] Ajout | Voiture id:12
-[+] Ajout | Voiture id:13
-[!] Accident | (4,4)
-[-] Suppression | Voiture id:8 supprimé de la carte.
-[-] Suppression | Voiture id:9 supprimé de la carte.
-[+] Ajout | Voiture id:14
-[+] Ajout | Voiture id:15
-[-] Suppression | Voiture id:11 supprimé de la carte.
-[-] Suppression | Voiture id:12 supprimé de la carte.
-[!] Accident | (1,1)
-[-] Suppression | Voiture id:10 supprimé de la carte.
-[+] Ajout | Voiture id:16
-[+] Ajout | Voiture id:17
-[-] Suppression | Voiture id:13 supprimé de la carte.
-[-] Suppression | Voiture id:14 supprimé de la carte.
-[+] Ajout | Voiture id:18
-[+] Ajout | Voiture id:19
-[-] Suppression | Voiture id:15 supprimé de la carte.
-[+] Ajout | Voiture id:20
-[+] Ajout | Voiture id:21
-[!] Accident | (1,1)
-[-] Suppression | Voiture id:16 supprimé de la carte.
-[-] Suppression | Voiture id:17 supprimé de la carte.
-[+] Ajout | Voiture id:22
-[+] Ajout | Voiture id:23
-[!] Accident | (0,2)
-[-] Suppression | Voiture id:18 supprimé de la carte.
-[-] Suppression | Voiture id:21 supprimé de la carte.
-[-] Suppression | Voiture id:19 supprimé de la carte.
-[-] Suppression | Voiture id:23 supprimé de la carte.
-[-] Suppression | Voiture id:22 supprimé de la carte.
-[+] Ajout | Voiture id:24
-[+] Ajout | Voiture id:25
-[!] Accident | (3,5)
-[-] Suppression | Voiture id:20 supprimé de la carte.
-[-] Suppression | Voiture id:25 supprimé de la carte.
-[-] Suppression | Voiture id:24 supprimé de la carte.
-[+] Ajout | Voiture id:26
-[+] Ajout | Voiture id:27
-[+] Ajout | Voiture id:28
-[+] Ajout | Voiture id:29
-[+] Ajout | Voiture id:30
-[+] Ajout | Voiture id:31
-[-] Suppression | Voiture id:26 supprimé de la carte.
-[-] Suppression | Voiture id:27 supprimé de la carte.
-[+] Ajout | Voiture id:32
-[+] Ajout | Voiture id:33
-[-] Suppression | Voiture id:28 supprimé de la carte.
-[-] Suppression | Voiture id:29 supprimé de la carte.
-[+] Ajout | Voiture id:34
-[+] Ajout | Voiture id:35
-[-] Suppression | Voiture id:30 supprimé de la carte.
-[-] Suppression | Voiture id:31 supprimé de la carte.
-[+] Ajout | Voiture id:36
-[+] Ajout | Voiture id:37
-[-] Suppression | Voiture id:32 supprimé de la carte.
-[-] Suppression | Voiture id:33 supprimé de la carte.
-[+] Ajout | Voiture id:38
-[+] Ajout | Voiture id:39
-[-] Suppression | Voiture id:34 supprimé de la carte.
-[-] Suppression | Voiture id:35 supprimé de la carte.
-[+] Ajout | Voiture id:40
-[+] Ajout | Voiture id:41
-[-] Suppression | Voiture id:36 supprimé de la carte.
-[-] Suppression | Voiture id:37 supprimé de la carte.
-[+] Ajout | Voiture id:42
-[+] Ajout | Voiture id:43
-[-] Suppression | Voiture id:38 supprimé de la carte.
-[-] Suppression | Voiture id:39 supprimé de la carte.
-[+] Ajout | Voiture id:44
-[+] Ajout | Voiture id:45
-[-] Suppression | Voiture id:40 supprimé de la carte.
-[-] Suppression | Voiture id:41 supprimé de la carte.
-[+] Ajout | Voiture id:46
-[+] Ajout | Voiture id:47
-[!] Accident | (4,4)
-[-] Suppression | Voiture id:42 supprimé de la carte.
-[-] Suppression | Voiture id:43 supprimé de la carte.
-[+] Ajout | Voiture id:48
-[+] Ajout | Voiture id:49
-[-] Suppression | Voiture id:45 supprimé de la carte.
-[-] Suppression | Voiture id:47 supprimé de la carte.
-[!] Accident | (1,1)
-[-] Suppression | Voiture id:44 supprimé de la carte.
-[+] Ajout | Voiture id:50
-[+] Ajout | Voiture id:51
-[-] Suppression | Voiture id:46 supprimé de la carte.
-[-] Suppression | Voiture id:48 supprimé de la carte.
-[+] Ajout | Voiture id:52
-[+] Ajout | Voiture id:53
-[!] Accident | (2,3)
-[-] Suppression | Voiture id:49 supprimé de la carte.
-[+] Ajout | Voiture id:54
-[+] Ajout | Voiture id:55
-[-] Suppression | Voiture id:52 supprimé de la carte.
-[-] Suppression | Voiture id:53 supprimé de la carte.
-[-] Suppression | Voiture id:50 supprimé de la carte.
-[-] Suppression | Voiture id:51 supprimé de la carte.
-[+] Ajout | Voiture id:56
-[+] Ajout | Voiture id:57
-[+] Ajout | Voiture id:58
-[+] Ajout | Voiture id:59
-[!] Accident | (2,2)
-[!] Accident | (2,2)
-[-] Suppression | Voiture id:54 supprimé de la carte.
-[-] Suppression | Voiture id:55 supprimé de la carte.
-[-] Suppression | Voiture id:57 supprimé de la carte.
-[-] Suppression | Voiture id:56 supprimé de la carte.
-[+] Ajout | Voiture id:60
-[+] Ajout | Voiture id:61
-[-] Suppression | Voiture id:56 supprimé de la carte.
-[-] Suppression | Voiture id:58 supprimé de la carte.
-[+] Ajout | Voiture id:62
-[+] Ajout | Voiture id:63
-[!] Accident | (1,1)
-[-] Suppression | Voiture id:59 supprimé de la carte.
-[+] Ajout | Voiture id:64
-[+] Ajout | Voiture id:65
-[!] Accident | (0,4)
-[-] Suppression | Voiture id:61 supprimé de la carte.
-[-] Suppression | Voiture id:63 supprimé de la carte.
-[-] Suppression | Voiture id:60 supprimé de la carte.
-[-] Suppression | Voiture id:65 supprimé de la carte.
-[-] Suppression | Voiture id:64 supprimé de la carte.
-[+] Ajout | Voiture id:66
-[+] Ajout | Voiture id:67
-[-] Suppression | Voiture id:62 supprimé de la carte.
-[+] Ajout | Voiture id:68
-[+] Ajout | Voiture id:69
-[+] Ajout | Voiture id:70
-[+] Ajout | Voiture id:71
-[-] Suppression | Voiture id:66 supprimé de la carte.
-[-] Suppression | Voiture id:67 supprimé de la carte.
-[+] Ajout | Voiture id:72
-[+] Ajout | Voiture id:73
-[!] Accident | (0,1)
-[-] Suppression | Voiture id:68 supprimé de la carte.
-[-] Suppression | Voiture id:69 supprimé de la carte.
-[-] Suppression | Voiture id:73 supprimé de la carte.
-[-] Suppression | Voiture id:72 supprimé de la carte.
-[+] Ajout | Voiture id:74
-[+] Ajout | Voiture id:75
-[!] Accident | (0,2)
-[-] Suppression | Voiture id:70 supprimé de la carte.
-[-] Suppression | Voiture id:71 supprimé de la carte.
-[-] Suppression | Voiture id:75 supprimé de la carte.
-[-] Suppression | Voiture id:74 supprimé de la carte.
-[+] Ajout | Voiture id:76
-[+] Ajout | Voiture id:77
-[+] Ajout | Voiture id:78
-[+] Ajout | Voiture id:79
-[+] Ajout | Voiture id:80
-[+] Ajout | Voiture id:81
+[+] Ajout | Voiture id:1500
+[+] Ajout | Voiture id:1501
+[!] Accident | (2,5)
+[-] Suppression | Voiture id:1496 supprimé de la carte.
+[-] Suppression | Voiture id:1497 supprimé de la carte.
+[-] Suppression | Voiture id:1501 supprimé de la carte.
+[-] Suppression | Voiture id:1500 supprimé de la carte.
+[+] Ajout | Voiture id:1502
+[+] Ajout | Voiture id:1503
+[-] Suppression | Voiture id:1498 supprimé de la carte.
+[-] Suppression | Voiture id:1499 supprimé de la carte.
+[+] Ajout | Voiture id:1504
+[+] Ajout | Voiture id:1505
 [!] Accident | (2,4)
-[-] Suppression | Voiture id:76 supprimé de la carte.
-[-] Suppression | Voiture id:77 supprimé de la carte.
-[+] Ajout | Voiture id:82
-[+] Ajout | Voiture id:83
+[+] Ajout | Voiture id:1506
+[+] Ajout | Voiture id:1507
+[-] Suppression | Voiture id:1505 supprimé de la carte.
+[-] Suppression | Voiture id:1504 supprimé de la carte.
+[-] Suppression | Voiture id:1502 supprimé de la carte.
+[-] Suppression | Voiture id:1503 supprimé de la carte.
+[+] Ajout | Voiture id:1508
+[+] Ajout | Voiture id:1509
+[+] Ajout | Voiture id:1510
+[+] Ajout | Voiture id:1511
+[-] Suppression | Voiture id:1506 supprimé de la carte.
+[-] Suppression | Voiture id:1507 supprimé de la carte.
+[+] Ajout | Voiture id:1512
+[+] Ajout | Voiture id:1513
+[-] Suppression | Voiture id:1508 supprimé de la carte.
+[-] Suppression | Voiture id:1509 supprimé de la carte.
+[+] Ajout | Voiture id:1514
+[+] Ajout | Voiture id:1515
+[!] Accident | (0,2)
+[-] Suppression | Voiture id:1510 supprimé de la carte.
+[-] Suppression | Voiture id:1511 supprimé de la carte.
+[-] Suppression | Voiture id:1515 supprimé de la carte.
+[-] Suppression | Voiture id:1514 supprimé de la carte.
+[+] Ajout | Voiture id:1516
+[+] Ajout | Voiture id:1517
+[-] Suppression | Voiture id:1512 supprimé de la carte.
+[-] Suppression | Voiture id:1513 supprimé de la carte.
+[+] Ajout | Voiture id:1518
+[+] Ajout | Voiture id:1519
+[!] Accident | (4,5)
+[-] Suppression | Voiture id:1519 supprimé de la carte.
+[-] Suppression | Voiture id:1518 supprimé de la carte.
+[+] Ajout | Voiture id:1520
+[+] Ajout | Voiture id:1521
+[!] Accident | (1,4)
+[-] Suppression | Voiture id:1516 supprimé de la carte.
+[-] Suppression | Voiture id:1517 supprimé de la carte.
+[+] Ajout | Voiture id:1522
+[+] Ajout | Voiture id:1523
+[-] Suppression | Voiture id:1520 supprimé de la carte.
+[-] Suppression | Voiture id:1521 supprimé de la carte.
+[+] Ajout | Voiture id:1524
+[+] Ajout | Voiture id:1525
+[!] Accident | (1,4)
+[+] Ajout | Voiture id:1526
+[+] Ajout | Voiture id:1527
+[-] Suppression | Voiture id:1524 supprimé de la carte.
+[-] Suppression | Voiture id:1525 supprimé de la carte.
+[-] Suppression | Voiture id:1522 supprimé de la carte.
+[-] Suppression | Voiture id:1523 supprimé de la carte.
+[+] Ajout | Voiture id:1528
+[+] Ajout | Voiture id:1529
+[+] Ajout | Voiture id:1530
+[+] Ajout | Voiture id:1531
+[!] Accident | (0,1)
+[-] Suppression | Voiture id:1526 supprimé de la carte.
+[-] Suppression | Voiture id:1527 supprimé de la carte.
+[-] Suppression | Voiture id:1531 supprimé de la carte.
+[-] Suppression | Voiture id:1530 supprimé de la carte.
+[+] Ajout | Voiture id:1532
+[+] Ajout | Voiture id:1533
 [!] Accident | (1,5)
-[-] Suppression | Voiture id:81 supprimé de la carte.
-[-] Suppression | Voiture id:80 supprimé de la carte.
-[-] Suppression | Voiture id:78 supprimé de la carte.
-[-] Suppression | Voiture id:79 supprimé de la carte.
-[-] Suppression | Voiture id:83 supprimé de la carte.
-[-] Suppression | Voiture id:82 supprimé de la carte.
-[+] Ajout | Voiture id:84
-[+] Ajout | Voiture id:85
+[-] Suppression | Voiture id:1528 supprimé de la carte.
+[-] Suppression | Voiture id:1529 supprimé de la carte.
+[-] Suppression | Voiture id:1533 supprimé de la carte.
+[-] Suppression | Voiture id:1532 supprimé de la carte.
+[+] Ajout | Voiture id:1534
+[+] Ajout | Voiture id:1535
+[+] Ajout | Voiture id:1536
+[+] Ajout | Voiture id:1537
+[+] Ajout | Voiture id:1538
+[+] Ajout | Voiture id:1539
+[-] Suppression | Voiture id:1534 supprimé de la carte.
+[-] Suppression | Voiture id:1535 supprimé de la carte.
+[+] Ajout | Voiture id:1540
+[+] Ajout | Voiture id:1541
+[!] Accident | (1,4)
+[-] Suppression | Voiture id:1536 supprimé de la carte.
+[-] Suppression | Voiture id:1537 supprimé de la carte.
+[+] Ajout | Voiture id:1542
+[+] Ajout | Voiture id:1543
+[-] Suppression | Voiture id:1540 supprimé de la carte.
+[-] Suppression | Voiture id:1541 supprimé de la carte.
+[!] Accident | (1,3)
+[-] Suppression | Voiture id:1538 supprimé de la carte.
+[-] Suppression | Voiture id:1539 supprimé de la carte.
+[+] Ajout | Voiture id:1544
+[+] Ajout | Voiture id:1545
+[!] Accident | (1,3)
+[-] Suppression | Voiture id:1543 supprimé de la carte.
+[-] Suppression | Voiture id:1542 supprimé de la carte.
+[+] Ajout | Voiture id:1546
+[+] Ajout | Voiture id:1547
+[-] Suppression | Voiture id:1542 supprimé de la carte.
+[-] Suppression | Voiture id:1544 supprimé de la carte.
+[+] Ajout | Voiture id:1548
+[+] Ajout | Voiture id:1549
+[!] Accident | (4,1)
+[-] Suppression | Voiture id:1545 supprimé de la carte.
+[+] Ajout | Voiture id:1550
+[+] Ajout | Voiture id:1551
+[-] Suppression | Voiture id:1546 supprimé de la carte.
+[-] Suppression | Voiture id:1547 supprimé de la carte.
+[+] Ajout | Voiture id:1552
+[+] Ajout | Voiture id:1553
+[-] Suppression | Voiture id:1548 supprimé de la carte.
+[-] Suppression | Voiture id:1549 supprimé de la carte.
+[+] Ajout | Voiture id:1554
+[+] Ajout | Voiture id:1555
+[-] Suppression | Voiture id:1550 supprimé de la carte.
+[-] Suppression | Voiture id:1551 supprimé de la carte.
+[+] Ajout | Voiture id:1556
+[+] Ajout | Voiture id:1557
+[-] Suppression | Voiture id:1552 supprimé de la carte.
+[-] Suppression | Voiture id:1553 supprimé de la carte.
+[+] Ajout | Voiture id:1558
+[+] Ajout | Voiture id:1559
+[!] Accident | (3,3)
+[-] Suppression | Voiture id:1554 supprimé de la carte.
+[-] Suppression | Voiture id:1555 supprimé de la carte.
+[-] Suppression | Voiture id:1557 supprimé de la carte.
+[-] Suppression | Voiture id:1556 supprimé de la carte.
+[+] Ajout | Voiture id:1560
+[+] Ajout | Voiture id:1561
+[+] Ajout | Voiture id:1562
+[+] Ajout | Voiture id:1563
+[-] Suppression | Voiture id:1558 supprimé de la carte.
+[-] Suppression | Voiture id:1559 supprimé de la carte.
+[+] Ajout | Voiture id:1564
+[+] Ajout | Voiture id:1565
+[-] Suppression | Voiture id:1560 supprimé de la carte.
+[-] Suppression | Voiture id:1561 supprimé de la carte.
+[+] Ajout | Voiture id:1566
+[+] Ajout | Voiture id:1567
+[!] Accident | (1,3)
+[-] Suppression | Voiture id:1562 supprimé de la carte.
+[-] Suppression | Voiture id:1563 supprimé de la carte.
+[+] Ajout | Voiture id:1568
+[+] Ajout | Voiture id:1569
+[-] Suppression | Voiture id:1567 supprimé de la carte.
+[-] Suppression | Voiture id:1566 supprimé de la carte.
+[-] Suppression | Voiture id:1564 supprimé de la carte.
+[-] Suppression | Voiture id:1565 supprimé de la carte.
+[+] Ajout | Voiture id:1570
+[+] Ajout | Voiture id:1571
+[!] Accident | (4,1)
+[+] Ajout | Voiture id:1572
+[+] Ajout | Voiture id:1573
+[-] Suppression | Voiture id:1568 supprimé de la carte.
+[-] Suppression | Voiture id:1569 supprimé de la carte.
+[!] Accident | (4,2)
+[+] Ajout | Voiture id:1574
+[+] Ajout | Voiture id:1575
+[-] Suppression | Voiture id:1571 supprimé de la carte.
+[-] Suppression | Voiture id:1570 supprimé de la carte.
+[!] Accident | (4,4)
+[+] Ajout | Voiture id:1576
+[+] Ajout | Voiture id:1577
+[-] Suppression | Voiture id:1573 supprimé de la carte.
+[-] Suppression | Voiture id:1575 supprimé de la carte.
+[-] Suppression | Voiture id:1572 supprimé de la carte.
+[+] Ajout | Voiture id:1578
+[+] Ajout | Voiture id:1579
+[-] Suppression | Voiture id:1574 supprimé de la carte.
+[+] Ajout | Voiture id:1580
+[+] Ajout | Voiture id:1581
+[-] Suppression | Voiture id:1576 supprimé de la carte.
+[-] Suppression | Voiture id:1577 supprimé de la carte.
+[+] Ajout | Voiture id:1582
+[+] Ajout | Voiture id:1583
+[!] Accident | (2,5)
+[-] Suppression | Voiture id:1578 supprimé de la carte.
+[-] Suppression | Voiture id:1579 supprimé de la carte.
+[-] Suppression | Voiture id:1583 supprimé de la carte.
+[-] Suppression | Voiture id:1582 supprimé de la carte.
+[+] Ajout | Voiture id:1584
+[+] Ajout | Voiture id:1585
+[-] Suppression | Voiture id:1580 supprimé de la carte.
+[-] Suppression | Voiture id:1581 supprimé de la carte.
+[+] Ajout | Voiture id:1586
+[+] Ajout | Voiture id:1587
+[!] Accident | (0,1)
+[-] Suppression | Voiture id:1587 supprimé de la carte.
+[-] Suppression | Voiture id:1586 supprimé de la carte.
+[+] Ajout | Voiture id:1588
+[+] Ajout | Voiture id:1589
+[-] Suppression | Voiture id:1584 supprimé de la carte.
+[-] Suppression | Voiture id:1585 supprimé de la carte.
+[+] Ajout | Voiture id:1590
+[+] Ajout | Voiture id:1591
+[+] Ajout | Voiture id:1592
+[+] Ajout | Voiture id:1593
+[-] Suppression | Voiture id:1588 supprimé de la carte.
+[-] Suppression | Voiture id:1589 supprimé de la carte.
+[+] Ajout | Voiture id:1594
+[+] Ajout | Voiture id:1595
+[-] Suppression | Voiture id:1590 supprimé de la carte.
+[-] Suppression | Voiture id:1591 supprimé de la carte.
+[+] Ajout | Voiture id:1596
+[+] Ajout | Voiture id:1597
+[-] Suppression | Voiture id:1592 supprimé de la carte.
+[-] Suppression | Voiture id:1593 supprimé de la carte.
+[+] Ajout | Voiture id:1598
+[+] Ajout | Voiture id:1599
+[-] Suppression | Voiture id:1594 supprimé de la carte.
+[-] Suppression | Voiture id:1595 supprimé de la carte.
+[+] Ajout | Voiture id:1600
+[+] Ajout | Voiture id:1601
+[-] Suppression | Voiture id:1596 supprimé de la carte.
+[-] Suppression | Voiture id:1597 supprimé de la carte.
+[+] Ajout | Voiture id:1602
+[+] Ajout | Voiture id:1603
+[!] Accident | (3,3)
+[-] Suppression | Voiture id:1598 supprimé de la carte.
+[-] Suppression | Voiture id:1599 supprimé de la carte.
+[-] Suppression | Voiture id:1601 supprimé de la carte.
+[-] Suppression | Voiture id:1600 supprimé de la carte.
+[+] Ajout | Voiture id:1604
+[+] Ajout | Voiture id:1605
+[+] Ajout | Voiture id:1606
+[+] Ajout | Voiture id:1607
+[-] Suppression | Voiture id:1602 supprimé de la carte.
+[-] Suppression | Voiture id:1603 supprimé de la carte.
+[+] Ajout | Voiture id:1608
+[+] Ajout | Voiture id:1609
+[-] Suppression | Voiture id:1604 supprimé de la carte.
+[-] Suppression | Voiture id:1605 supprimé de la carte.
+[+] Ajout | Voiture id:1610
+[+] Ajout | Voiture id:1611
+[!] Accident | (3,3)
+[-] Suppression | Voiture id:1606 supprimé de la carte.
+[-] Suppression | Voiture id:1607 supprimé de la carte.
+[-] Suppression | Voiture id:1609 supprimé de la carte.
+[-] Suppression | Voiture id:1608 supprimé de la carte.
+[+] Ajout | Voiture id:1612
+[+] Ajout | Voiture id:1613
+[!] Accident | (0,3)
+[-] Suppression | Voiture id:1613 supprimé de la carte.
+[-] Suppression | Voiture id:1612 supprimé de la carte.
+[+] Ajout | Voiture id:1614
+[+] Ajout | Voiture id:1615
+[!] Accident | (4,5)
+[-] Suppression | Voiture id:1610 supprimé de la carte.
+[-] Suppression | Voiture id:1611 supprimé de la carte.
+[-] Suppression | Voiture id:1615 supprimé de la carte.
+[-] Suppression | Voiture id:1614 supprimé de la carte.
+[+] Ajout | Voiture id:1616
+[+] Ajout | Voiture id:1617
+[+] Ajout | Voiture id:1618
+[+] Ajout | Voiture id:1619
+[!] Accident | (1,3)
+[+] Ajout | Voiture id:1620
+[+] Ajout | Voiture id:1621
+[!] Accident | (2,5)
+[-] Suppression | Voiture id:1619 supprimé de la carte.
+[-] Suppression | Voiture id:1618 supprimé de la carte.
+[-] Suppression | Voiture id:1616 supprimé de la carte.
+[-] Suppression | Voiture id:1617 supprimé de la carte.
+[-] Suppression | Voiture id:1621 supprimé de la carte.
+[-] Suppression | Voiture id:1620 supprimé de la carte.
+[+] Ajout | Voiture id:1622
+[+] Ajout | Voiture id:1623
+[+] Ajout | Voiture id:1624
+[+] Ajout | Voiture id:1625
+[+] Ajout | Voiture id:1626
+[+] Ajout | Voiture id:1627
+[-] Suppression | Voiture id:1622 supprimé de la carte.
+[-] Suppression | Voiture id:1623 supprimé de la carte.
+[+] Ajout | Voiture id:1628
+[+] Ajout | Voiture id:1629
+[-] Suppression | Voiture id:1624 supprimé de la carte.
+[-] Suppression | Voiture id:1625 supprimé de la carte.
+[+] Ajout | Voiture id:1630
+[+] Ajout | Voiture id:1631
+[!] Accident | (2,2)
+[!] Accident | (2,2)
+[-] Suppression | Voiture id:1626 supprimé de la carte.
+[-] Suppression | Voiture id:1627 supprimé de la carte.
+[-] Suppression | Voiture id:1629 supprimé de la carte.
+[-] Suppression | Voiture id:1628 supprimé de la carte.
+[+] Ajout | Voiture id:1632
+[+] Ajout | Voiture id:1633
+[-] Suppression | Voiture id:1628 supprimé de la carte.
+[-] Suppression | Voiture id:1630 supprimé de la carte.
+[+] Ajout | Voiture id:1634
+[+] Ajout | Voiture id:1635
+[-] Suppression | Voiture id:1631 supprimé de la carte.
+[+] Ajout | Voiture id:1636
+[+] Ajout | Voiture id:1637
+[!] Accident | (1,4)
+[-] Suppression | Voiture id:1632 supprimé de la carte.
+[-] Suppression | Voiture id:1633 supprimé de la carte.
+[+] Ajout | Voiture id:1638
+[+] Ajout | Voiture id:1639
+[-] Suppression | Voiture id:1636 supprimé de la carte.
+[-] Suppression | Voiture id:1637 supprimé de la carte.
+[-] Suppression | Voiture id:1634 supprimé de la carte.
+[-] Suppression | Voiture id:1635 supprimé de la carte.
+[+] Ajout | Voiture id:1640
+[+] Ajout | Voiture id:1641
+[!] Accident | (1,1)
+[+] Ajout | Voiture id:1642
+[+] Ajout | Voiture id:1643
+[-] Suppression | Voiture id:1639 supprimé de la carte.
+[-] Suppression | Voiture id:1641 supprimé de la carte.
+[!] Accident | (1,4)
+[-] Suppression | Voiture id:1638 supprimé de la carte.
+[+] Ajout | Voiture id:1644
+[+] Ajout | Voiture id:1645
+[!] Accident | (4,5)
+[-] Suppression | Voiture id:1642 supprimé de la carte.
+[-] Suppression | Voiture id:1643 supprimé de la carte.
+[-] Suppression | Voiture id:1640 supprimé de la carte.
+[-] Suppression | Voiture id:1645 supprimé de la carte.
+[-] Suppression | Voiture id:1644 supprimé de la carte.
+[+] Ajout | Voiture id:1646
+[+] Ajout | Voiture id:1647
+[+] Ajout | Voiture id:1648
+[+] Ajout | Voiture id:1649
+[+] Ajout | Voiture id:1650
+[+] Ajout | Voiture id:1651
+[-] Suppression | Voiture id:1646 supprimé de la carte.
+[-] Suppression | Voiture id:1647 supprimé de la carte.
+[+] Ajout | Voiture id:1652
+[+] Ajout | Voiture id:1653
+[!] Accident | (1,5)
+[-] Suppression | Voiture id:1648 supprimé de la carte.
+[-] Suppression | Voiture id:1649 supprimé de la carte.
+[-] Suppression | Voiture id:1653 supprimé de la carte.
+[-] Suppression | Voiture id:1652 supprimé de la carte.
+[+] Ajout | Voiture id:1654
+[+] Ajout | Voiture id:1655
+[-] Suppression | Voiture id:1650 supprimé de la carte.
+[-] Suppression | Voiture id:1651 supprimé de la carte.
+[+] Ajout | Voiture id:1656
+[+] Ajout | Voiture id:1657
+[+] Ajout | Voiture id:1658
+[+] Ajout | Voiture id:1659
+[!] Accident | (3,2)
+[-] Suppression | Voiture id:1654 supprimé de la carte.
+[-] Suppression | Voiture id:1655 supprimé de la carte.
+[-] Suppression | Voiture id:1656 supprimé de la carte.
+[-] Suppression | Voiture id:1657 supprimé de la carte.
+[+] Ajout | Voiture id:1660
+[+] Ajout | Voiture id:1661
+[+] Ajout | Voiture id:1662
+[+] Ajout | Voiture id:1663
+[!] Accident | (0,4)
+[-] Suppression | Voiture id:1658 supprimé de la carte.
+[-] Suppression | Voiture id:1659 supprimé de la carte.
+[-] Suppression | Voiture id:1663 supprimé de la carte.
+[-] Suppression | Voiture id:1662 supprimé de la carte.
+[+] Ajout | Voiture id:1664
+[+] Ajout | Voiture id:1665
+[!] Accident | (4,5)
+[-] Suppression | Voiture id:1660 supprimé de la carte.
+[-] Suppression | Voiture id:1661 supprimé de la carte.
+[-] Suppression | Voiture id:1665 supprimé de la carte.
+[-] Suppression | Voiture id:1664 supprimé de la carte.
+[+] Ajout | Voiture id:1666
+[+] Ajout | Voiture id:1667
+[+] Ajout | Voiture id:1668
+[+] Ajout | Voiture id:1669
+[+] Ajout | Voiture id:1670
+[+] Ajout | Voiture id:1671
+[-] Suppression | Voiture id:1666 supprimé de la carte.
+[-] Suppression | Voiture id:1667 supprimé de la carte.
+[+] Ajout | Voiture id:1672
+[+] Ajout | Voiture id:1673
+[-] Suppression | Voiture id:1668 supprimé de la carte.
+[-] Suppression | Voiture id:1669 supprimé de la carte.
+[+] Ajout | Voiture id:1674
+[+] Ajout | Voiture id:1675
+[-] Suppression | Voiture id:1670 supprimé de la carte.
+[-] Suppression | Voiture id:1671 supprimé de la carte.
+[+] Ajout | Voiture id:1676
+[+] Ajout | Voiture id:1677
+[!] Accident | (1,3)
+[-] Suppression | Voiture id:1672 supprimé de la carte.
+[-] Suppression | Voiture id:1673 supprimé de la carte.
+[+] Ajout | Voiture id:1678
+[+] Ajout | Voiture id:1679
+[!] Accident | (1,3)
+[-] Suppression | Voiture id:1677 supprimé de la carte.
+[-] Suppression | Voiture id:1676 supprimé de la carte.
+[-] Suppression | Voiture id:1674 supprimé de la carte.
+[-] Suppression | Voiture id:1675 supprimé de la carte.
+[+] Ajout | Voiture id:1680
+[+] Ajout | Voiture id:1681
+[!] Accident | (3,5)
+[-] Suppression | Voiture id:1676 supprimé de la carte.
+[-] Suppression | Voiture id:1679 supprimé de la carte.
+[-] Suppression | Voiture id:1681 supprimé de la carte.
+[-] Suppression | Voiture id:1680 supprimé de la carte.
+[+] Ajout | Voiture id:1682
+[+] Ajout | Voiture id:1683
+[!] Accident | (1,4)
+[-] Suppression | Voiture id:1678 supprimé de la carte.
+[+] Ajout | Voiture id:1684
+[+] Ajout | Voiture id:1685
+[!] Accident | (0,2)
+[-] Suppression | Voiture id:1682 supprimé de la carte.
+[-] Suppression | Voiture id:1683 supprimé de la carte.
+[-] Suppression | Voiture id:1685 supprimé de la carte.
+[-] Suppression | Voiture id:1684 supprimé de la carte.
+[+] Ajout | Voiture id:1686
+[+] Ajout | Voiture id:1687
+[+] Ajout | Voiture id:1688
+[+] Ajout | Voiture id:1689
+[!] Accident | (3,2)
+[!] Accident | (4,5)
+[-] Suppression | Voiture id:1686 supprimé de la carte.
+[-] Suppression | Voiture id:1687 supprimé de la carte.
+[-] Suppression | Voiture id:1689 supprimé de la carte.
+[-] Suppression | Voiture id:1688 supprimé de la carte.
+[+] Ajout | Voiture id:1690
+[+] Ajout | Voiture id:1691
+[+] Ajout | Voiture id:1692
+[+] Ajout | Voiture id:1693
+[!] Accident | (1,1)
+[+] Ajout | Voiture id:1694
+[+] Ajout | Voiture id:1695
+[-] Suppression | Voiture id:1690 supprimé de la carte.
+[-] Suppression | Voiture id:1693 supprimé de la carte.
+[-] Suppression | Voiture id:1691 supprimé de la carte.
+[+] Ajout | Voiture id:1696
+[+] Ajout | Voiture id:1697
+[!] Accident | (4,5)
+[-] Suppression | Voiture id:1692 supprimé de la carte.
+[-] Suppression | Voiture id:1697 supprimé de la carte.
+[-] Suppression | Voiture id:1696 supprimé de la carte.
+[+] Ajout | Voiture id:1698
+[+] Ajout | Voiture id:1699
+[-] Suppression | Voiture id:1694 supprimé de la carte.
+[-] Suppression | Voiture id:1695 supprimé de la carte.
+[+] Ajout | Voiture id:1700
+[+] Ajout | Voiture id:1701
+[+] Ajout | Voiture id:1702
+[+] Ajout | Voiture id:1703
+[!] Accident | (4,4)
+[-] Suppression | Voiture id:1698 supprimé de la carte.
+[-] Suppression | Voiture id:1699 supprimé de la carte.
+[+] Ajout | Voiture id:1704
+[+] Ajout | Voiture id:1705
+[-] Suppression | Voiture id:1701 supprimé de la carte.
+[-] Suppression | Voiture id:1702 supprimé de la carte.
+[-] Suppression | Voiture id:1700 supprimé de la carte.
+[+] Ajout | Voiture id:1706
+[+] Ajout | Voiture id:1707
+[-] Suppression | Voiture id:1703 supprimé de la carte.
+[+] Ajout | Voiture id:1708
+[+] Ajout | Voiture id:1709
+[-] Suppression | Voiture id:1704 supprimé de la carte.
+[-] Suppression | Voiture id:1705 supprimé de la carte.
+[+] Ajout | Voiture id:1710
+[+] Ajout | Voiture id:1711
+[!] Accident | (4,4)
+[-] Suppression | Voiture id:1706 supprimé de la carte.
+[-] Suppression | Voiture id:1707 supprimé de la carte.
+[+] Ajout | Voiture id:1712
+[+] Ajout | Voiture id:1713
+[-] Suppression | Voiture id:1708 supprimé de la carte.
+[-] Suppression | Voiture id:1711 supprimé de la carte.
+[-] Suppression | Voiture id:1709 supprimé de la carte.
+[+] Ajout | Voiture id:1714
+[+] Ajout | Voiture id:1715
+[-] Suppression | Voiture id:1710 supprimé de la carte.
+[+] Ajout | Voiture id:1716
+[+] Ajout | Voiture id:1717
+[-] Suppression | Voiture id:1712 supprimé de la carte.
+[-] Suppression | Voiture id:1713 supprimé de la carte.
+[+] Ajout | Voiture id:1718
+[+] Ajout | Voiture id:1719
+[!] Accident | (3,2)
+[-] Suppression | Voiture id:1714 supprimé de la carte.
+[-] Suppression | Voiture id:1715 supprimé de la carte.
+[-] Suppression | Voiture id:1716 supprimé de la carte.
+[-] Suppression | Voiture id:1717 supprimé de la carte.
+[+] Ajout | Voiture id:1720
+[+] Ajout | Voiture id:1721
+[!] Accident | (2,4)
+[+] Ajout | Voiture id:1722
+[+] Ajout | Voiture id:1723
+[-] Suppression | Voiture id:1721 supprimé de la carte.
+[-] Suppression | Voiture id:1720 supprimé de la carte.
+[-] Suppression | Voiture id:1718 supprimé de la carte.
+[-] Suppression | Voiture id:1719 supprimé de la carte.
+[+] Ajout | Voiture id:1724
+[+] Ajout | Voiture id:1725
+[+] Ajout | Voiture id:1726
+[+] Ajout | Voiture id:1727
+[-] Suppression | Voiture id:1722 supprimé de la carte.
+[-] Suppression | Voiture id:1723 supprimé de la carte.
+[+] Ajout | Voiture id:1728
+[+] Ajout | Voiture id:1729
+[!] Accident | (1,5)
+[-] Suppression | Voiture id:1724 supprimé de la carte.
+[-] Suppression | Voiture id:1725 supprimé de la carte.
+[-] Suppression | Voiture id:1729 supprimé de la carte.
+[-] Suppression | Voiture id:1728 supprimé de la carte.
+[+] Ajout | Voiture id:1730
+[+] Ajout | Voiture id:1731
+[!] Accident | (0,1)
+[-] Suppression | Voiture id:1726 supprimé de la carte.
+[-] Suppression | Voiture id:1727 supprimé de la carte.
+[-] Suppression | Voiture id:1731 supprimé de la carte.
+[-] Suppression | Voiture id:1730 supprimé de la carte.
+[+] Ajout | Voiture id:1732
+[+] Ajout | Voiture id:1733
+[+] Ajout | Voiture id:1734
+[+] Ajout | Voiture id:1735
+[+] Ajout | Voiture id:1736
+[+] Ajout | Voiture id:1737
+[-] Suppression | Voiture id:1732 supprimé de la carte.
+[-] Suppression | Voiture id:1733 supprimé de la carte.
+[+] Ajout | Voiture id:1738
+[+] Ajout | Voiture id:1739
+[-] Suppression | Voiture id:1734 supprimé de la carte.
+[-] Suppression | Voiture id:1735 supprimé de la carte.
+[+] Ajout | Voiture id:1740
+[+] Ajout | Voiture id:1741
+[-] Suppression | Voiture id:1736 supprimé de la carte.
+[-] Suppression | Voiture id:1737 supprimé de la carte.
+[+] Ajout | Voiture id:1742
+[+] Ajout | Voiture id:1743
+[-] Suppression | Voiture id:1738 supprimé de la carte.
+[-] Suppression | Voiture id:1739 supprimé de la carte.
+[+] Ajout | Voiture id:1744
+[+] Ajout | Voiture id:1745
+[-] Suppression | Voiture id:1740 supprimé de la carte.
+[-] Suppression | Voiture id:1741 supprimé de la carte.
+[+] Ajout | Voiture id:1746
+[+] Ajout | Voiture id:1747
+[!] Accident | (3,3)
+[-] Suppression | Voiture id:1742 supprimé de la carte.
+[-] Suppression | Voiture id:1743 supprimé de la carte.
+[-] Suppression | Voiture id:1745 supprimé de la carte.
+[-] Suppression | Voiture id:1744 supprimé de la carte.
+[+] Ajout | Voiture id:1748
+[+] Ajout | Voiture id:1749
+[+] Ajout | Voiture id:1750
+[+] Ajout | Voiture id:1751
+[-] Suppression | Voiture id:1746 supprimé de la carte.
+[-] Suppression | Voiture id:1747 supprimé de la carte.
+[+] Ajout | Voiture id:1752
+[+] Ajout | Voiture id:1753
+[-] Suppression | Voiture id:1748 supprimé de la carte.
+[-] Suppression | Voiture id:1749 supprimé de la carte.
+[+] Ajout | Voiture id:1754
+[+] Ajout | Voiture id:1755
+[!] Accident | (1,3)
+[-] Suppression | Voiture id:1750 supprimé de la carte.
+[-] Suppression | Voiture id:1751 supprimé de la carte.
+[+] Ajout | Voiture id:1756
+[+] Ajout | Voiture id:1757
+[!] Accident | (1,3)
+[-] Suppression | Voiture id:1755 supprimé de la carte.
+[-] Suppression | Voiture id:1754 supprimé de la carte.
+[-] Suppression | Voiture id:1752 supprimé de la carte.
+[-] Suppression | Voiture id:1753 supprimé de la carte.
+[+] Ajout | Voiture id:1758
+[+] Ajout | Voiture id:1759
+[-] Suppression | Voiture id:1754 supprimé de la carte.
+[-] Suppression | Voiture id:1757 supprimé de la carte.
+[+] Ajout | Voiture id:1760
+[+] Ajout | Voiture id:1761
+[!] Accident | (0,2)
+[!] Accident | (3,1)
+[-] Suppression | Voiture id:1756 supprimé de la carte.
+[-] Suppression | Voiture id:1761 supprimé de la carte.
+[-] Suppression | Voiture id:1760 supprimé de la carte.
+[+] Ajout | Voiture id:1762
+[+] Ajout | Voiture id:1763
+[-] Suppression | Voiture id:1759 supprimé de la carte.
+[-] Suppression | Voiture id:1758 supprimé de la carte.
+[!] Accident | (2,4)
+[+] Ajout | Voiture id:1764
+[+] Ajout | Voiture id:1765
+[-] Suppression | Voiture id:1763 supprimé de la carte.
+[-] Suppression | Voiture id:1762 supprimé de la carte.
+[+] Ajout | Voiture id:1766
+[+] Ajout | Voiture id:1767
+[!] Accident | (0,4)
+[-] Suppression | Voiture id:1767 supprimé de la carte.
+[-] Suppression | Voiture id:1766 supprimé de la carte.
+[+] Ajout | Voiture id:1768
+[+] Ajout | Voiture id:1769
+[-] Suppression | Voiture id:1764 supprimé de la carte.
+[-] Suppression | Voiture id:1765 supprimé de la carte.
+[+] Ajout | Voiture id:1770
+[+] Ajout | Voiture id:1771
+[+] Ajout | Voiture id:1772
+[+] Ajout | Voiture id:1773
+[!] Accident | (2,2)
+[!] Accident | (0,1)
+[-] Suppression | Voiture id:1768 supprimé de la carte.
+[-] Suppression | Voiture id:1769 supprimé de la carte.
+[-] Suppression | Voiture id:1771 supprimé de la carte.
+[-] Suppression | Voiture id:1770 supprimé de la carte.
+[-] Suppression | Voiture id:1773 supprimé de la carte.
+[-] Suppression | Voiture id:1772 supprimé de la carte.
+[+] Ajout | Voiture id:1774
+[+] Ajout | Voiture id:1775
+[+] Ajout | Voiture id:1776
+[+] Ajout | Voiture id:1777
+[!] Accident | (4,4)
+[+] Ajout | Voiture id:1778
+[+] Ajout | Voiture id:1779
+[-] Suppression | Voiture id:1774 supprimé de la carte.
+[-] Suppression | Voiture id:1776 supprimé de la carte.
+[!] Accident | (4,4)
+[-] Suppression | Voiture id:1775 supprimé de la carte.
+[+] Ajout | Voiture id:1780
+[+] Ajout | Voiture id:1781
+[-] Suppression | Voiture id:1777 supprimé de la carte.
+[-] Suppression | Voiture id:1779 supprimé de la carte.
+[+] Ajout | Voiture id:1782
+[+] Ajout | Voiture id:1783
+[!] Accident | (1,1)
+[-] Suppression | Voiture id:1778 supprimé de la carte.
+[+] Ajout | Voiture id:1784
+[+] Ajout | Voiture id:1785
+[-] Suppression | Voiture id:1781 supprimé de la carte.
+[-] Suppression | Voiture id:1783 supprimé de la carte.
+[-] Suppression | Voiture id:1780 supprimé de la carte.
+[+] Ajout | Voiture id:1786
+[+] Ajout | Voiture id:1787
+[!] Accident | (3,2)
+[-] Suppression | Voiture id:1782 supprimé de la carte.
+[-] Suppression | Voiture id:1784 supprimé de la carte.
+[-] Suppression | Voiture id:1785 supprimé de la carte.
+[+] Ajout | Voiture id:1788
+[+] Ajout | Voiture id:1789
+[+] Ajout | Voiture id:1790
+[+] Ajout | Voiture id:1791
+[-] Suppression | Voiture id:1786 supprimé de la carte.
+[-] Suppression | Voiture id:1787 supprimé de la carte.
+[+] Ajout | Voiture id:1792
+[+] Ajout | Voiture id:1793
+[-] Suppression | Voiture id:1788 supprimé de la carte.
+[-] Suppression | Voiture id:1789 supprimé de la carte.
+[+] Ajout | Voiture id:1794
+[+] Ajout | Voiture id:1795
+[-] Suppression | Voiture id:1790 supprimé de la carte.
+[-] Suppression | Voiture id:1791 supprimé de la carte.
+[+] Ajout | Voiture id:1796
+[+] Ajout | Voiture id:1797
+[!] Accident | (1,4)
+[-] Suppression | Voiture id:1792 supprimé de la carte.
+[-] Suppression | Voiture id:1793 supprimé de la carte.
+[+] Ajout | Voiture id:1798
+[+] Ajout | Voiture id:1799
+[-] Suppression | Voiture id:1796 supprimé de la carte.
+[-] Suppression | Voiture id:1797 supprimé de la carte.
+[-] Suppression | Voiture id:1794 supprimé de la carte.
+[-] Suppression | Voiture id:1795 supprimé de la carte.
+[+] Ajout | Voiture id:1800
+[+] Ajout | Voiture id:1801
+[+] Ajout | Voiture id:1802
+[+] Ajout | Voiture id:1803
+[-] Suppression | Voiture id:1798 supprimé de la carte.
+[-] Suppression | Voiture id:1799 supprimé de la carte.
+[+] Ajout | Voiture id:1804
+[+] Ajout | Voiture id:1805
+[!] Accident | (1,4)
+[-] Suppression | Voiture id:1800 supprimé de la carte.
+[-] Suppression | Voiture id:1801 supprimé de la carte.
+[+] Ajout | Voiture id:1806
+[+] Ajout | Voiture id:1807
+[-] Suppression | Voiture id:1804 supprimé de la carte.
+[-] Suppression | Voiture id:1805 supprimé de la carte.
+[-] Suppression | Voiture id:1802 supprimé de la carte.
+[-] Suppression | Voiture id:1803 supprimé de la carte.
+[+] Ajout | Voiture id:1808
+[+] Ajout | Voiture id:1809
+[+] Ajout | Voiture id:1810
+[+] Ajout | Voiture id:1811
+[!] Accident | (0,4)
+[-] Suppression | Voiture id:1806 supprimé de la carte.
+[-] Suppression | Voiture id:1807 supprimé de la carte.
+[-] Suppression | Voiture id:1811 supprimé de la carte.
+[-] Suppression | Voiture id:1810 supprimé de la carte.
+[+] Ajout | Voiture id:1812
+[+] Ajout | Voiture id:1813
+[-] Suppression | Voiture id:1808 supprimé de la carte.
+[-] Suppression | Voiture id:1809 supprimé de la carte.
+[+] Ajout | Voiture id:1814
+[+] Ajout | Voiture id:1815
+[+] Ajout | Voiture id:1816
+[+] Ajout | Voiture id:1817
+[-] Suppression | Voiture id:1812 supprimé de la carte.
+[-] Suppression | Voiture id:1813 supprimé de la carte.
+[+] Ajout | Voiture id:1818
+[+] Ajout | Voiture id:1819
+[-] Suppression | Voiture id:1814 supprimé de la carte.
+[-] Suppression | Voiture id:1815 supprimé de la carte.
+[+] Ajout | Voiture id:1820
+[+] Ajout | Voiture id:1821
+[-] Suppression | Voiture id:1816 supprimé de la carte.
+[-] Suppression | Voiture id:1817 supprimé de la carte.
+[+] Ajout | Voiture id:1822
+[+] Ajout | Voiture id:1823
+[!] Accident | (2,4)
+[-] Suppression | Voiture id:1818 supprimé de la carte.
+[-] Suppression | Voiture id:1819 supprimé de la carte.
+[+] Ajout | Voiture id:1824
+[+] Ajout | Voiture id:1825
+[-] Suppression | Voiture id:1823 supprimé de la carte.
+[-] Suppression | Voiture id:1822 supprimé de la carte.
+[-] Suppression | Voiture id:1820 supprimé de la carte.
+[-] Suppression | Voiture id:1821 supprimé de la carte.
+[+] Ajout | Voiture id:1826
+[+] Ajout | Voiture id:1827
+[!] Accident | (1,1)
+[+] Ajout | Voiture id:1828
+[+] Ajout | Voiture id:1829
+[!] Accident | (2,5)
+[-] Suppression | Voiture id:1825 supprimé de la carte.
+[-] Suppression | Voiture id:1827 supprimé de la carte.
+[-] Suppression | Voiture id:1824 supprimé de la carte.
+[-] Suppression | Voiture id:1829 supprimé de la carte.
+[-] Suppression | Voiture id:1828 supprimé de la carte.
+[+] Ajout | Voiture id:1830
+[+] Ajout | Voiture id:1831
+[!] Accident | (0,1)
+[-] Suppression | Voiture id:1826 supprimé de la carte.
+[-] Suppression | Voiture id:1831 supprimé de la carte.
+[-] Suppression | Voiture id:1830 supprimé de la carte.
+[+] Ajout | Voiture id:1832
+[+] Ajout | Voiture id:1833
+[+] Ajout | Voiture id:1834
+[+] Ajout | Voiture id:1835
+[!] Accident | (1,5)
+[-] Suppression | Voiture id:1835 supprimé de la carte.
+[-] Suppression | Voiture id:1834 supprimé de la carte.
+[+] Ajout | Voiture id:1836
+[+] Ajout | Voiture id:1837
+[-] Suppression | Voiture id:1832 supprimé de la carte.
+[-] Suppression | Voiture id:1833 supprimé de la carte.
+[+] Ajout | Voiture id:1838
+[+] Ajout | Voiture id:1839
+[+] Ajout | Voiture id:1840
+[+] Ajout | Voiture id:1841
+[-] Suppression | Voiture id:1836 supprimé de la carte.
+[-] Suppression | Voiture id:1837 supprimé de la carte.
+[+] Ajout | Voiture id:1842
+[+] Ajout | Voiture id:1843
+[-] Suppression | Voiture id:1838 supprimé de la carte.
+[-] Suppression | Voiture id:1839 supprimé de la carte.
+[+] Ajout | Voiture id:1844
+[+] Ajout | Voiture id:1845
+[-] Suppression | Voiture id:1840 supprimé de la carte.
+[-] Suppression | Voiture id:1841 supprimé de la carte.
+[+] Ajout | Voiture id:1846
+[+] Ajout | Voiture id:1847
+[-] Suppression | Voiture id:1842 supprimé de la carte.
+[-] Suppression | Voiture id:1843 supprimé de la carte.
+[+] Ajout | Voiture id:1848
+[+] Ajout | Voiture id:1849
+[!] Accident | (3,2)
+[!] Accident | (2,3)
+[-] Suppression | Voiture id:1844 supprimé de la carte.
+[-] Suppression | Voiture id:1845 supprimé de la carte.
+[-] Suppression | Voiture id:1846 supprimé de la carte.
+[-] Suppression | Voiture id:1847 supprimé de la carte.
+[+] Ajout | Voiture id:1850
+[+] Ajout | Voiture id:1851
+[-] Suppression | Voiture id:1848 supprimé de la carte.
+[-] Suppression | Voiture id:1849 supprimé de la carte.
+[+] Ajout | Voiture id:1852
+[+] Ajout | Voiture id:1853
+[+] Ajout | Voiture id:1854
+[+] Ajout | Voiture id:1855
+[!] Accident | (1,1)
+[-] Suppression | Voiture id:1850 supprimé de la carte.
+[-] Suppression | Voiture id:1851 supprimé de la carte.
+[+] Ajout | Voiture id:1856
+[+] Ajout | Voiture id:1857
+[-] Suppression | Voiture id:1852 supprimé de la carte.
+[-] Suppression | Voiture id:1854 supprimé de la carte.
+[-] Suppression | Voiture id:1853 supprimé de la carte.
+[+] Ajout | Voiture id:1858
+[+] Ajout | Voiture id:1859
+[-] Suppression | Voiture id:1855 supprimé de la carte.
+[+] Ajout | Voiture id:1860
+[+] Ajout | Voiture id:1861
+[!] Accident | (0,2)
+[-] Suppression | Voiture id:1856 supprimé de la carte.
+[-] Suppression | Voiture id:1857 supprimé de la carte.
+[-] Suppression | Voiture id:1861 supprimé de la carte.
+[-] Suppression | Voiture id:1860 supprimé de la carte.
+[+] Ajout | Voiture id:1862
+[+] Ajout | Voiture id:1863
+[-] Suppression | Voiture id:1858 supprimé de la carte.
+[-] Suppression | Voiture id:1859 supprimé de la carte.
+[+] Ajout | Voiture id:1864
+[+] Ajout | Voiture id:1865
+[!] Accident | (3,2)
+[!] Accident | (1,4)
+[-] Suppression | Voiture id:1862 supprimé de la carte.
+[-] Suppression | Voiture id:1863 supprimé de la carte.
+[+] Ajout | Voiture id:1866
+[+] Ajout | Voiture id:1867
+[-] Suppression | Voiture id:1864 supprimé de la carte.
+[-] Suppression | Voiture id:1865 supprimé de la carte.
+[+] Ajout | Voiture id:1868
+[+] Ajout | Voiture id:1869
+[!] Accident | (1,4)
+[+] Ajout | Voiture id:1870
+[+] Ajout | Voiture id:1871
+[-] Suppression | Voiture id:1868 supprimé de la carte.
+[-] Suppression | Voiture id:1869 supprimé de la carte.
+[-] Suppression | Voiture id:1866 supprimé de la carte.
+[-] Suppression | Voiture id:1867 supprimé de la carte.
+[+] Ajout | Voiture id:1872
+[+] Ajout | Voiture id:1873
+[+] Ajout | Voiture id:1874
+[+] Ajout | Voiture id:1875
+[-] Suppression | Voiture id:1870 supprimé de la carte.
+[-] Suppression | Voiture id:1871 supprimé de la carte.
+[+] Ajout | Voiture id:1876
+[+] Ajout | Voiture id:1877
+[-] Suppression | Voiture id:1872 supprimé de la carte.
+[-] Suppression | Voiture id:1873 supprimé de la carte.
+[+] Ajout | Voiture id:1878
+[+] Ajout | Voiture id:1879
+[!] Accident | (4,2)
+[-] Suppression | Voiture id:1874 supprimé de la carte.
+[-] Suppression | Voiture id:1875 supprimé de la carte.
+[+] Ajout | Voiture id:1880
+[+] Ajout | Voiture id:1881
+[!] Accident | (3,2)
+[-] Suppression | Voiture id:1877 supprimé de la carte.
+[-] Suppression | Voiture id:1876 supprimé de la carte.
+[-] Suppression | Voiture id:1878 supprimé de la carte.
+[-] Suppression | Voiture id:1879 supprimé de la carte.
+[+] Ajout | Voiture id:1882
+[+] Ajout | Voiture id:1883
+[+] Ajout | Voiture id:1884
+[+] Ajout | Voiture id:1885
+[-] Suppression | Voiture id:1880 supprimé de la carte.
+[-] Suppression | Voiture id:1881 supprimé de la carte.
+[+] Ajout | Voiture id:1886
+[+] Ajout | Voiture id:1887
+[!] Accident | (4,4)
+[-] Suppression | Voiture id:1882 supprimé de la carte.
+[-] Suppression | Voiture id:1883 supprimé de la carte.
+[+] Ajout | Voiture id:1888
+[+] Ajout | Voiture id:1889
+[-] Suppression | Voiture id:1884 supprimé de la carte.
+[-] Suppression | Voiture id:1887 supprimé de la carte.
+[-] Suppression | Voiture id:1885 supprimé de la carte.
+[+] Ajout | Voiture id:1890
+[+] Ajout | Voiture id:1891
+[-] Suppression | Voiture id:1886 supprimé de la carte.
+[+] Ajout | Voiture id:1892
+[+] Ajout | Voiture id:1893
+[-] Suppression | Voiture id:1888 supprimé de la carte.
+[-] Suppression | Voiture id:1889 supprimé de la carte.
+[+] Ajout | Voiture id:1894
+[+] Ajout | Voiture id:1895
+[-] Suppression | Voiture id:1890 supprimé de la carte.
+[-] Suppression | Voiture id:1891 supprimé de la carte.
+[+] Ajout | Voiture id:1896
+[+] Ajout | Voiture id:1897
+[-] Suppression | Voiture id:1892 supprimé de la carte.
+[-] Suppression | Voiture id:1893 supprimé de la carte.
+[+] Ajout | Voiture id:1898
+[+] Ajout | Voiture id:1899
+[-] Suppression | Voiture id:1894 supprimé de la carte.
+[-] Suppression | Voiture id:1895 supprimé de la carte.
+[+] Ajout | Voiture id:1900
+[+] Ajout | Voiture id:1901
+[-] Suppression | Voiture id:1896 supprimé de la carte.
+[-] Suppression | Voiture id:1897 supprimé de la carte.
+[+] Ajout | Voiture id:1902
+[+] Ajout | Voiture id:1903
+[!] Accident | (1,4)
+[-] Suppression | Voiture id:1898 supprimé de la carte.
+[-] Suppression | Voiture id:1899 supprimé de la carte.
+[+] Ajout | Voiture id:1904
+[+] Ajout | Voiture id:1905
+[-] Suppression | Voiture id:1902 supprimé de la carte.
+[-] Suppression | Voiture id:1903 supprimé de la carte.
+[-] Suppression | Voiture id:1900 supprimé de la carte.
+[-] Suppression | Voiture id:1901 supprimé de la carte.
+[+] Ajout | Voiture id:1906
+[+] Ajout | Voiture id:1907
+[+] Ajout | Voiture id:1908
+[+] Ajout | Voiture id:1909
+[!] Accident | (1,1)
+[-] Suppression | Voiture id:1904 supprimé de la carte.
+[-] Suppression | Voiture id:1905 supprimé de la carte.
+[+] Ajout | Voiture id:1910
+[+] Ajout | Voiture id:1911
+[-] Suppression | Voiture id:1907 supprimé de la carte.
+[-] Suppression | Voiture id:1909 supprimé de la carte.
+[-] Suppression | Voiture id:1906 supprimé de la carte.
+[+] Ajout | Voiture id:1912
+[+] Ajout | Voiture id:1913
+[-] Suppression | Voiture id:1908 supprimé de la carte.
+[+] Ajout | Voiture id:1914
+[+] Ajout | Voiture id:1915
+[-] Suppression | Voiture id:1910 supprimé de la carte.
+[-] Suppression | Voiture id:1911 supprimé de la carte.
+[+] Ajout | Voiture id:1916
+[+] Ajout | Voiture id:1917
+[!] Accident | (4,4)
+[-] Suppression | Voiture id:1912 supprimé de la carte.
+[-] Suppression | Voiture id:1913 supprimé de la carte.
+[+] Ajout | Voiture id:1918
+[+] Ajout | Voiture id:1919
+[-] Suppression | Voiture id:1914 supprimé de la carte.
+[-] Suppression | Voiture id:1916 supprimé de la carte.
+[-] Suppression | Voiture id:1915 supprimé de la carte.
+[+] Ajout | Voiture id:1920
+[+] Ajout | Voiture id:1921
+[-] Suppression | Voiture id:1917 supprimé de la carte.
+[+] Ajout | Voiture id:1922
+[+] Ajout | Voiture id:1923
+[-] Suppression | Voiture id:1918 supprimé de la carte.
+[-] Suppression | Voiture id:1919 supprimé de la carte.
+[+] Ajout | Voiture id:1924
+[+] Ajout | Voiture id:1925
+[!] Accident | (0,2)
+[-] Suppression | Voiture id:1920 supprimé de la carte.
+[-] Suppression | Voiture id:1921 supprimé de la carte.
+[-] Suppression | Voiture id:1925 supprimé de la carte.
+[-] Suppression | Voiture id:1924 supprimé de la carte.
+[+] Ajout | Voiture id:1926
+[+] Ajout | Voiture id:1927
+[-] Suppression | Voiture id:1922 supprimé de la carte.
+[-] Suppression | Voiture id:1923 supprimé de la carte.
+[+] Ajout | Voiture id:1928
+[+] Ajout | Voiture id:1929
+[!] Accident | (1,1)
+[+] Ajout | Voiture id:1930
+[+] Ajout | Voiture id:1931
+[-] Suppression | Voiture id:1927 supprimé de la carte.
+[-] Suppression | Voiture id:1929 supprimé de la carte.
+[-] Suppression | Voiture id:1926 supprimé de la carte.
+[+] Ajout | Voiture id:1932
+[+] Ajout | Voiture id:1933
+[-] Suppression | Voiture id:1928 supprimé de la carte.
+[+] Ajout | Voiture id:1934
+[+] Ajout | Voiture id:1935
+[-] Suppression | Voiture id:1930 supprimé de la carte.
+[-] Suppression | Voiture id:1931 supprimé de la carte.
+[+] Ajout | Voiture id:1936
+[+] Ajout | Voiture id:1937
+[-] Suppression | Voiture id:1932 supprimé de la carte.
+[-] Suppression | Voiture id:1933 supprimé de la carte.
+[+] Ajout | Voiture id:1938
+[+] Ajout | Voiture id:1939
+[-] Suppression | Voiture id:1934 supprimé de la carte.
+[-] Suppression | Voiture id:1935 supprimé de la carte.
+[+] Ajout | Voiture id:1940
+[+] Ajout | Voiture id:1941
+[-] Suppression | Voiture id:1936 supprimé de la carte.
+[-] Suppression | Voiture id:1937 supprimé de la carte.
+[+] Ajout | Voiture id:1942
+[+] Ajout | Voiture id:1943
+[-] Suppression | Voiture id:1938 supprimé de la carte.
+[-] Suppression | Voiture id:1939 supprimé de la carte.
+[+] Ajout | Voiture id:1944
+[+] Ajout | Voiture id:1945
+[-] Suppression | Voiture id:1940 supprimé de la carte.
+[-] Suppression | Voiture id:1941 supprimé de la carte.
+[+] Ajout | Voiture id:1946
+[+] Ajout | Voiture id:1947
+[!] Accident | (2,5)
+[-] Suppression | Voiture id:1942 supprimé de la carte.
+[-] Suppression | Voiture id:1943 supprimé de la carte.
+[-] Suppression | Voiture id:1947 supprimé de la carte.
+[-] Suppression | Voiture id:1946 supprimé de la carte.
+[+] Ajout | Voiture id:1948
+[+] Ajout | Voiture id:1949
+[-] Suppression | Voiture id:1944 supprimé de la carte.
+[-] Suppression | Voiture id:1945 supprimé de la carte.
+[+] Ajout | Voiture id:1950
+[+] Ajout | Voiture id:1951
+[!] Accident | (3,1)
+[+] Ajout | Voiture id:1952
+[+] Ajout | Voiture id:1953
+[-] Suppression | Voiture id:1949 supprimé de la carte.
+[-] Suppression | Voiture id:1948 supprimé de la carte.
+[+] Ajout | Voiture id:1954
+[+] Ajout | Voiture id:1955
+[-] Suppression | Voiture id:1950 supprimé de la carte.
+[-] Suppression | Voiture id:1951 supprimé de la carte.
+[+] Ajout | Voiture id:1956
+[+] Ajout | Voiture id:1957
+[-] Suppression | Voiture id:1952 supprimé de la carte.
+[-] Suppression | Voiture id:1953 supprimé de la carte.
+[+] Ajout | Voiture id:1958
+[+] Ajout | Voiture id:1959
+[!] Accident | (1,4)
+[-] Suppression | Voiture id:1954 supprimé de la carte.
+[-] Suppression | Voiture id:1955 supprimé de la carte.
+[+] Ajout | Voiture id:1960
+[+] Ajout | Voiture id:1961
+[-] Suppression | Voiture id:1958 supprimé de la carte.
+[-] Suppression | Voiture id:1959 supprimé de la carte.
+[-] Suppression | Voiture id:1956 supprimé de la carte.
+[-] Suppression | Voiture id:1957 supprimé de la carte.
+[+] Ajout | Voiture id:1962
+[+] Ajout | Voiture id:1963
+[!] Accident | (1,1)
+[+] Ajout | Voiture id:1964
+[+] Ajout | Voiture id:1965
+[-] Suppression | Voiture id:1961 supprimé de la carte.
+[-] Suppression | Voiture id:1962 supprimé de la carte.
+[-] Suppression | Voiture id:1960 supprimé de la carte.
+[+] Ajout | Voiture id:1966
+[+] Ajout | Voiture id:1967
+[-] Suppression | Voiture id:1963 supprimé de la carte.
+[+] Ajout | Voiture id:1968
+[+] Ajout | Voiture id:1969
+[!] Accident | (4,4)
+[-] Suppression | Voiture id:1964 supprimé de la carte.
+[-] Suppression | Voiture id:1965 supprimé de la carte.
+[+] Ajout | Voiture id:1970
+[+] Ajout | Voiture id:1971
+[-] Suppression | Voiture id:1966 supprimé de la carte.
+[-] Suppression | Voiture id:1969 supprimé de la carte.
+[-] Suppression | Voiture id:1967 supprimé de la carte.
+[+] Ajout | Voiture id:1972
+[+] Ajout | Voiture id:1973
+[-] Suppression | Voiture id:1968 supprimé de la carte.
+[+] Ajout | Voiture id:1974
+[+] Ajout | Voiture id:1975
+[-] Suppression | Voiture id:1970 supprimé de la carte.
+[-] Suppression | Voiture id:1971 supprimé de la carte.
+[+] Ajout | Voiture id:1976
+[+] Ajout | Voiture id:1977
+[-] Suppression | Voiture id:1972 supprimé de la carte.
+[-] Suppression | Voiture id:1973 supprimé de la carte.
+[+] Ajout | Voiture id:1978
+[+] Ajout | Voiture id:1979
+[-] Suppression | Voiture id:1974 supprimé de la carte.
+[-] Suppression | Voiture id:1975 supprimé de la carte.
+[+] Ajout | Voiture id:1980
+[+] Ajout | Voiture id:1981
+[-] Suppression | Voiture id:1976 supprimé de la carte.
+[-] Suppression | Voiture id:1977 supprimé de la carte.
+[+] Ajout | Voiture id:1982
+[+] Ajout | Voiture id:1983
+[-] Suppression | Voiture id:1978 supprimé de la carte.
+[-] Suppression | Voiture id:1979 supprimé de la carte.
+[+] Ajout | Voiture id:1984
+[+] Ajout | Voiture id:1985
+[-] Suppression | Voiture id:1980 supprimé de la carte.
+[-] Suppression | Voiture id:1981 supprimé de la carte.
+[+] Ajout | Voiture id:1986
+[+] Ajout | Voiture id:1987
+[-] Suppression | Voiture id:1982 supprimé de la carte.
+[-] Suppression | Voiture id:1983 supprimé de la carte.
+[+] Ajout | Voiture id:1988
+[+] Ajout | Voiture id:1989
+[-] Suppression | Voiture id:1984 supprimé de la carte.
+[-] Suppression | Voiture id:1985 supprimé de la carte.
+[+] Ajout | Voiture id:1990
+[+] Ajout | Voiture id:1991
+[-] Suppression | Voiture id:1986 supprimé de la carte.
+[-] Suppression | Voiture id:1987 supprimé de la carte.
+[+] Ajout | Voiture id:1992
+[+] Ajout | Voiture id:1993
+[!] Accident | (1,1)
+[-] Suppression | Voiture id:1988 supprimé de la carte.
+[-] Suppression | Voiture id:1989 supprimé de la carte.
+[+] Ajout | Voiture id:1994
+[+] Ajout | Voiture id:1995
+[-] Suppression | Voiture id:1991 supprimé de la carte.
+[-] Suppression | Voiture id:1992 supprimé de la carte.
+[!] Accident | (4,4)
+[-] Suppression | Voiture id:1990 supprimé de la carte.
+[+] Ajout | Voiture id:1996
+[+] Ajout | Voiture id:1997
+[-] Suppression | Voiture id:1993 supprimé de la carte.
+[-] Suppression | Voiture id:1995 supprimé de la carte.
+[+] Ajout | Voiture id:1998
+[+] Ajout | Voiture id:1999
+[-] Suppression | Voiture id:1994 supprimé de la carte.
+[+] Ajout | Voiture id:2000
+[+] Ajout | Voiture id:2001
+[-] Suppression | Voiture id:1996 supprimé de la carte.
+[-] Suppression | Voiture id:1997 supprimé de la carte.
+[+] Ajout | Voiture id:2002
+[+] Ajout | Voiture id:2003
+[-] Suppression | Voiture id:1998 supprimé de la carte.
+[-] Suppression | Voiture id:1999 supprimé de la carte.
+[+] Ajout | Voiture id:2004
+[+] Ajout | Voiture id:2005
+[!] Accident | (3,3)
+[-] Suppression | Voiture id:2000 supprimé de la carte.
+[-] Suppression | Voiture id:2001 supprimé de la carte.
+[-] Suppression | Voiture id:2003 supprimé de la carte.
+[-] Suppression | Voiture id:2002 supprimé de la carte.
+[+] Ajout | Voiture id:2006
+[+] Ajout | Voiture id:2007
+[+] Ajout | Voiture id:2008
+[+] Ajout | Voiture id:2009
+[-] Suppression | Voiture id:2004 supprimé de la carte.
+[-] Suppression | Voiture id:2005 supprimé de la carte.
+[+] Ajout | Voiture id:2010
+[+] Ajout | Voiture id:2011
+[!] Accident | (4,2)
+[-] Suppression | Voiture id:2006 supprimé de la carte.
+[-] Suppression | Voiture id:2007 supprimé de la carte.
+[+] Ajout | Voiture id:2012
+[+] Ajout | Voiture id:2013
+[!] Accident | (4,2)
+[!] Accident | (1,5)
+[-] Suppression | Voiture id:2009 supprimé de la carte.
+[-] Suppression | Voiture id:2008 supprimé de la carte.
+[-] Suppression | Voiture id:2008 supprimé de la carte.
+[-] Suppression | Voiture id:2011 supprimé de la carte.
+[-] Suppression | Voiture id:2013 supprimé de la carte.
+[-] Suppression | Voiture id:2012 supprimé de la carte.
+[+] Ajout | Voiture id:2014
+[+] Ajout | Voiture id:2015
+[-] Suppression | Voiture id:2010 supprimé de la carte.
+[+] Ajout | Voiture id:2016
+[+] Ajout | Voiture id:2017
+[+] Ajout | Voiture id:2018
+[+] Ajout | Voiture id:2019
+[!] Accident | (2,3)
+[-] Suppression | Voiture id:2014 supprimé de la carte.
+[-] Suppression | Voiture id:2015 supprimé de la carte.
+[+] Ajout | Voiture id:2020
+[+] Ajout | Voiture id:2021
+[-] Suppression | Voiture id:2018 supprimé de la carte.
+[-] Suppression | Voiture id:2019 supprimé de la carte.
+[-] Suppression | Voiture id:2016 supprimé de la carte.
+[-] Suppression | Voiture id:2017 supprimé de la carte.
+[+] Ajout | Voiture id:2022
+[+] Ajout | Voiture id:2023
+[!] Accident | (1,1)
+[+] Ajout | Voiture id:2024
+[+] Ajout | Voiture id:2025
+[-] Suppression | Voiture id:2020 supprimé de la carte.
+[-] Suppression | Voiture id:2022 supprimé de la carte.
+[-] Suppression | Voiture id:2021 supprimé de la carte.
+[+] Ajout | Voiture id:2026
+[+] Ajout | Voiture id:2027
+[!] Accident | (0,4)
+[-] Suppression | Voiture id:2023 supprimé de la carte.
+[-] Suppression | Voiture id:2027 supprimé de la carte.
+[-] Suppression | Voiture id:2026 supprimé de la carte.
+[+] Ajout | Voiture id:2028
+[+] Ajout | Voiture id:2029
+[!] Accident | (0,1)
+[-] Suppression | Voiture id:2024 supprimé de la carte.
+[-] Suppression | Voiture id:2025 supprimé de la carte.
+[-] Suppression | Voiture id:2029 supprimé de la carte.
+[-] Suppression | Voiture id:2028 supprimé de la carte.
+[+] Ajout | Voiture id:2030
+[+] Ajout | Voiture id:2031
+[+] Ajout | Voiture id:2032
+[+] Ajout | Voiture id:2033
+[!] Accident | (1,1)
+[+] Ajout | Voiture id:2034
+[+] Ajout | Voiture id:2035
+[-] Suppression | Voiture id:2031 supprimé de la carte.
+[-] Suppression | Voiture id:2033 supprimé de la carte.
+[-] Suppression | Voiture id:2030 supprimé de la carte.
+[+] Ajout | Voiture id:2036
+[+] Ajout | Voiture id:2037
+[-] Suppression | Voiture id:2032 supprimé de la carte.
+[+] Ajout | Voiture id:2038
+[+] Ajout | Voiture id:2039
+[-] Suppression | Voiture id:2034 supprimé de la carte.
+[-] Suppression | Voiture id:2035 supprimé de la carte.
+[+] Ajout | Voiture id:2040
+[+] Ajout | Voiture id:2041
+[-] Suppression | Voiture id:2036 supprimé de la carte.
+[-] Suppression | Voiture id:2037 supprimé de la carte.
+[+] Ajout | Voiture id:2042
+[+] Ajout | Voiture id:2043
+[!] Accident | (2,3)
+[-] Suppression | Voiture id:2038 supprimé de la carte.
+[-] Suppression | Voiture id:2039 supprimé de la carte.
+[+] Ajout | Voiture id:2044
+[+] Ajout | Voiture id:2045
+[-] Suppression | Voiture id:2042 supprimé de la carte.
+[-] Suppression | Voiture id:2043 supprimé de la carte.
+[-] Suppression | Voiture id:2040 supprimé de la carte.
+[-] Suppression | Voiture id:2041 supprimé de la carte.
+[+] Ajout | Voiture id:2046
+[+] Ajout | Voiture id:2047
+[!] Accident | (0,2)
+[-] Suppression | Voiture id:2047 supprimé de la carte.
+[-] Suppression | Voiture id:2046 supprimé de la carte.
+[+] Ajout | Voiture id:2048
+[+] Ajout | Voiture id:2049
+[-] Suppression | Voiture id:2044 supprimé de la carte.
+[-] Suppression | Voiture id:2045 supprimé de la carte.
+[+] Ajout | Voiture id:2050
+[+] Ajout | Voiture id:2051
+[+] Ajout | Voiture id:2052
+[+] Ajout | Voiture id:2053
+[-] Suppression | Voiture id:2048 supprimé de la carte.
+[-] Suppression | Voiture id:2049 supprimé de la carte.
+[+] Ajout | Voiture id:2054
+[+] Ajout | Voiture id:2055
+[-] Suppression | Voiture id:2050 supprimé de la carte.
+[-] Suppression | Voiture id:2051 supprimé de la carte.
+[+] Ajout | Voiture id:2056
+[+] Ajout | Voiture id:2057
+[!] Accident | (1,1)
+[-] Suppression | Voiture id:2052 supprimé de la carte.
+[-] Suppression | Voiture id:2053 supprimé de la carte.
+[+] Ajout | Voiture id:2058
+[+] Ajout | Voiture id:2059
+[-] Suppression | Voiture id:2054 supprimé de la carte.
+[-] Suppression | Voiture id:2057 supprimé de la carte.
+[-] Suppression | Voiture id:2055 supprimé de la carte.
+[+] Ajout | Voiture id:2060
+[+] Ajout | Voiture id:2061
+[!] Accident | (1,1)
+[-] Suppression | Voiture id:2056 supprimé de la carte.
+[+] Ajout | Voiture id:2062
+[+] Ajout | Voiture id:2063
+[-] Suppression | Voiture id:2059 supprimé de la carte.
+[-] Suppression | Voiture id:2061 supprimé de la carte.
+[-] Suppression | Voiture id:2058 supprimé de la carte.
+[+] Ajout | Voiture id:2064
+[+] Ajout | Voiture id:2065
+[!] Accident | (0,4)
+[!] Accident | (3,1)
+[-] Suppression | Voiture id:2060 supprimé de la carte.
+[-] Suppression | Voiture id:2065 supprimé de la carte.
+[-] Suppression | Voiture id:2064 supprimé de la carte.
+[+] Ajout | Voiture id:2066
+[+] Ajout | Voiture id:2067
+[-] Suppression | Voiture id:2063 supprimé de la carte.
+[-] Suppression | Voiture id:2062 supprimé de la carte.
+[+] Ajout | Voiture id:2068
+[+] Ajout | Voiture id:2069
+[+] Ajout | Voiture id:2070
+[+] Ajout | Voiture id:2071
+[!] Accident | (1,1)
+[-] Suppression | Voiture id:2066 supprimé de la carte.
+[-] Suppression | Voiture id:2067 supprimé de la carte.
+[+] Ajout | Voiture id:2072
+[+] Ajout | Voiture id:2073
+[-] Suppression | Voiture id:2069 supprimé de la carte.
+[-] Suppression | Voiture id:2070 supprimé de la carte.
+[!] Accident | (2,3)
+[-] Suppression | Voiture id:2068 supprimé de la carte.
+[+] Ajout | Voiture id:2074
+[+] Ajout | Voiture id:2075
+[-] Suppression | Voiture id:2072 supprimé de la carte.
+[-] Suppression | Voiture id:2073 supprimé de la carte.
+[-] Suppression | Voiture id:2071 supprimé de la carte.
+[+] Ajout | Voiture id:2076
+[+] Ajout | Voiture id:2077
+[+] Ajout | Voiture id:2078
+[+] Ajout | Voiture id:2079
+[-] Suppression | Voiture id:2074 supprimé de la carte.
+[-] Suppression | Voiture id:2075 supprimé de la carte.
+[+] Ajout | Voiture id:2080
+[+] Ajout | Voiture id:2081
+[!] Accident | (4,1)
+[-] Suppression | Voiture id:2076 supprimé de la carte.
+[-] Suppression | Voiture id:2077 supprimé de la carte.
+[+] Ajout | Voiture id:2082
+[+] Ajout | Voiture id:2083
+[-] Suppression | Voiture id:2078 supprimé de la carte.
+[-] Suppression | Voiture id:2079 supprimé de la carte.
+[+] Ajout | Voiture id:2084
+[+] Ajout | Voiture id:2085
+[!] Accident | (3,5)
+[-] Suppression | Voiture id:2080 supprimé de la carte.
+[-] Suppression | Voiture id:2081 supprimé de la carte.
+[-] Suppression | Voiture id:2085 supprimé de la carte.
+[-] Suppression | Voiture id:2084 supprimé de la carte.
+[+] Ajout | Voiture id:2086
+[+] Ajout | Voiture id:2087
+[-] Suppression | Voiture id:2082 supprimé de la carte.
+[-] Suppression | Voiture id:2083 supprimé de la carte.
+[+] Ajout | Voiture id:2088
+[+] Ajout | Voiture id:2089
+[!] Accident | (3,3)
+[!] Accident | (1,3)
+[-] Suppression | Voiture id:2087 supprimé de la carte.
+[-] Suppression | Voiture id:2086 supprimé de la carte.
+[+] Ajout | Voiture id:2090
+[+] Ajout | Voiture id:2091
+[-] Suppression | Voiture id:2089 supprimé de la carte.
+[-] Suppression | Voiture id:2088 supprimé de la carte.
+[+] Ajout | Voiture id:2092
+[+] Ajout | Voiture id:2093
+[+] Ajout | Voiture id:2094
+[+] Ajout | Voiture id:2095
+[!] Accident | (3,2)
+[-] Suppression | Voiture id:2090 supprimé de la carte.
+[-] Suppression | Voiture id:2091 supprimé de la carte.
+[-] Suppression | Voiture id:2092 supprimé de la carte.
+[-] Suppression | Voiture id:2093 supprimé de la carte.
+[+] Ajout | Voiture id:2096
+[+] Ajout | Voiture id:2097
+[+] Ajout | Voiture id:2098
+[+] Ajout | Voiture id:2099
+[-] Suppression | Voiture id:2094 supprimé de la carte.
+[-] Suppression | Voiture id:2095 supprimé de la carte.
+[+] Ajout | Voiture id:2100
+[+] Ajout | Voiture id:2101
+[-] Suppression | Voiture id:2096 supprimé de la carte.
+[-] Suppression | Voiture id:2097 supprimé de la carte.
+[+] Ajout | Voiture id:2102
+[+] Ajout | Voiture id:2103
+[-] Suppression | Voiture id:2098 supprimé de la carte.
+[-] Suppression | Voiture id:2099 supprimé de la carte.
+[+] Ajout | Voiture id:2104
+[+] Ajout | Voiture id:2105
+[-] Suppression | Voiture id:2100 supprimé de la carte.
+[-] Suppression | Voiture id:2101 supprimé de la carte.
+[+] Ajout | Voiture id:2106
+[+] Ajout | Voiture id:2107
+[-] Suppression | Voiture id:2102 supprimé de la carte.
+[-] Suppression | Voiture id:2103 supprimé de la carte.
+[+] Ajout | Voiture id:2108
+[+] Ajout | Voiture id:2109
+[-] Suppression | Voiture id:2104 supprimé de la carte.
+[-] Suppression | Voiture id:2105 supprimé de la carte.
+[+] Ajout | Voiture id:2110
+[+] Ajout | Voiture id:2111
+[-] Suppression | Voiture id:2106 supprimé de la carte.
+[-] Suppression | Voiture id:2107 supprimé de la carte.
+[+] Ajout | Voiture id:2112
+[+] Ajout | Voiture id:2113
+[-] Suppression | Voiture id:2108 supprimé de la carte.
+[-] Suppression | Voiture id:2109 supprimé de la carte.
+[+] Ajout | Voiture id:2114
+[+] Ajout | Voiture id:2115
+[-] Suppression | Voiture id:2110 supprimé de la carte.
+[-] Suppression | Voiture id:2111 supprimé de la carte.
+[+] Ajout | Voiture id:2116
+[+] Ajout | Voiture id:2117
+[-] Suppression | Voiture id:2112 supprimé de la carte.
+[-] Suppression | Voiture id:2113 supprimé de la carte.
+[+] Ajout | Voiture id:2118
+[+] Ajout | Voiture id:2119
+[-] Suppression | Voiture id:2114 supprimé de la carte.
+[-] Suppression | Voiture id:2115 supprimé de la carte.
+[+] Ajout | Voiture id:2120
+[+] Ajout | Voiture id:2121
+[-] Suppression | Voiture id:2116 supprimé de la carte.
+[-] Suppression | Voiture id:2117 supprimé de la carte.
+[+] Ajout | Voiture id:2122
+[+] Ajout | Voiture id:2123
+[-] Suppression | Voiture id:2118 supprimé de la carte.
+[-] Suppression | Voiture id:2119 supprimé de la carte.
+[+] Ajout | Voiture id:2124
+[+] Ajout | Voiture id:2125
+[!] Accident | (3,2)
+[!] Accident | (4,5)
+[-] Suppression | Voiture id:2120 supprimé de la carte.
+[-] Suppression | Voiture id:2121 supprimé de la carte.
+[-] Suppression | Voiture id:2122 supprimé de la carte.
+[-] Suppression | Voiture id:2123 supprimé de la carte.
+[-] Suppression | Voiture id:2125 supprimé de la carte.
+[-] Suppression | Voiture id:2124 supprimé de la carte.
+[+] Ajout | Voiture id:2126
+[+] Ajout | Voiture id:2127
+[+] Ajout | Voiture id:2128
+[+] Ajout | Voiture id:2129
+[+] Ajout | Voiture id:2130
+[+] Ajout | Voiture id:2131
+[-] Suppression | Voiture id:2126 supprimé de la carte.
+[-] Suppression | Voiture id:2127 supprimé de la carte.
+[+] Ajout | Voiture id:2132
+[+] Ajout | Voiture id:2133
+[!] Accident | (1,3)
+[-] Suppression | Voiture id:2128 supprimé de la carte.
+[-] Suppression | Voiture id:2129 supprimé de la carte.
+[+] Ajout | Voiture id:2134
+[+] Ajout | Voiture id:2135
+[-] Suppression | Voiture id:2133 supprimé de la carte.
+[-] Suppression | Voiture id:2132 supprimé de la carte.
+[-] Suppression | Voiture id:2130 supprimé de la carte.
+[-] Suppression | Voiture id:2131 supprimé de la carte.
+[+] Ajout | Voiture id:2136
+[+] Ajout | Voiture id:2137
+[+] Ajout | Voiture id:2138
+[+] Ajout | Voiture id:2139
+[!] Accident | (3,1)
+[-] Suppression | Voiture id:2134 supprimé de la carte.
+[-] Suppression | Voiture id:2135 supprimé de la carte.
+[+] Ajout | Voiture id:2140
+[+] Ajout | Voiture id:2141
+[-] Suppression | Voiture id:2137 supprimé de la carte.
+[-] Suppression | Voiture id:2136 supprimé de la carte.
+[+] Ajout | Voiture id:2142
+[+] Ajout | Voiture id:2143
+[!] Accident | (2,3)
+[-] Suppression | Voiture id:2138 supprimé de la carte.
+[-] Suppression | Voiture id:2139 supprimé de la carte.
+[+] Ajout | Voiture id:2144
+[+] Ajout | Voiture id:2145
+[-] Suppression | Voiture id:2142 supprimé de la carte.
+[-] Suppression | Voiture id:2143 supprimé de la carte.
+[-] Suppression | Voiture id:2140 supprimé de la carte.
+[-] Suppression | Voiture id:2141 supprimé de la carte.
+[+] Ajout | Voiture id:2146
+[+] Ajout | Voiture id:2147
+[+] Ajout | Voiture id:2148
+[+] Ajout | Voiture id:2149
+[!] Accident | (2,5)
+[!] Accident | (4,1)
+[-] Suppression | Voiture id:2144 supprimé de la carte.
+[-] Suppression | Voiture id:2145 supprimé de la carte.
+[-] Suppression | Voiture id:2149 supprimé de la carte.
+[-] Suppression | Voiture id:2148 supprimé de la carte.
+[+] Ajout | Voiture id:2150
+[+] Ajout | Voiture id:2151
+[-] Suppression | Voiture id:2146 supprimé de la carte.
+[-] Suppression | Voiture id:2147 supprimé de la carte.
+[+] Ajout | Voiture id:2152
+[+] Ajout | Voiture id:2153
+[+] Ajout | Voiture id:2154
+[+] Ajout | Voiture id:2155
+[-] Suppression | Voiture id:2150 supprimé de la carte.
+[-] Suppression | Voiture id:2151 supprimé de la carte.
+[+] Ajout | Voiture id:2156
+[+] Ajout | Voiture id:2157
+[!] Accident | (0,3)
+[-] Suppression | Voiture id:2152 supprimé de la carte.
+[-] Suppression | Voiture id:2153 supprimé de la carte.
+[-] Suppression | Voiture id:2157 supprimé de la carte.
+[-] Suppression | Voiture id:2156 supprimé de la carte.
+[+] Ajout | Voiture id:2158
+[+] Ajout | Voiture id:2159
+[-] Suppression | Voiture id:2154 supprimé de la carte.
+[-] Suppression | Voiture id:2155 supprimé de la carte.
+[+] Ajout | Voiture id:2160
+[+] Ajout | Voiture id:2161
+[!] Accident | (2,2)
+[-] Suppression | Voiture id:2159 supprimé de la carte.
+[-] Suppression | Voiture id:2158 supprimé de la carte.
+[+] Ajout | Voiture id:2162
+[+] Ajout | Voiture id:2163
+[+] Ajout | Voiture id:2164
+[+] Ajout | Voiture id:2165
+[-] Suppression | Voiture id:2160 supprimé de la carte.
+[-] Suppression | Voiture id:2161 supprimé de la carte.
+[+] Ajout | Voiture id:2166
+[+] Ajout | Voiture id:2167
+[-] Suppression | Voiture id:2162 supprimé de la carte.
+[-] Suppression | Voiture id:2163 supprimé de la carte.
+[+] Ajout | Voiture id:2168
+[+] Ajout | Voiture id:2169
+[-] Suppression | Voiture id:2164 supprimé de la carte.
+[-] Suppression | Voiture id:2165 supprimé de la carte.
+[+] Ajout | Voiture id:2170
+[+] Ajout | Voiture id:2171
+[-] Suppression | Voiture id:2166 supprimé de la carte.
+[-] Suppression | Voiture id:2167 supprimé de la carte.
+[+] Ajout | Voiture id:2172
+[+] Ajout | Voiture id:2173
+[!] Accident | (2,4)
+[-] Suppression | Voiture id:2168 supprimé de la carte.
+[-] Suppression | Voiture id:2169 supprimé de la carte.
+[+] Ajout | Voiture id:2174
+[+] Ajout | Voiture id:2175
+[-] Suppression | Voiture id:2173 supprimé de la carte.
+[-] Suppression | Voiture id:2172 supprimé de la carte.
+[-] Suppression | Voiture id:2170 supprimé de la carte.
+[-] Suppression | Voiture id:2171 supprimé de la carte.
+[+] Ajout | Voiture id:2176
+[+] Ajout | Voiture id:2177
+[+] Ajout | Voiture id:2178
+[+] Ajout | Voiture id:2179
+[!] Accident | (3,3)
+[-] Suppression | Voiture id:2174 supprimé de la carte.
+[-] Suppression | Voiture id:2175 supprimé de la carte.
+[-] Suppression | Voiture id:2177 supprimé de la carte.
+[-] Suppression | Voiture id:2176 supprimé de la carte.
+[+] Ajout | Voiture id:2180
+[+] Ajout | Voiture id:2181
+[+] Ajout | Voiture id:2182
+[+] Ajout | Voiture id:2183
+[-] Suppression | Voiture id:2178 supprimé de la carte.
+[-] Suppression | Voiture id:2179 supprimé de la carte.
+[+] Ajout | Voiture id:2184
+[+] Ajout | Voiture id:2185
+[!] Accident | (1,5)
+[-] Suppression | Voiture id:2180 supprimé de la carte.
+[-] Suppression | Voiture id:2181 supprimé de la carte.
+[-] Suppression | Voiture id:2185 supprimé de la carte.
+[-] Suppression | Voiture id:2184 supprimé de la carte.
+[+] Ajout | Voiture id:2186
+[+] Ajout | Voiture id:2187
+[-] Suppression | Voiture id:2182 supprimé de la carte.
+[-] Suppression | Voiture id:2183 supprimé de la carte.
+[+] Ajout | Voiture id:2188
+[+] Ajout | Voiture id:2189
+[!] Accident | (0,1)
+[-] Suppression | Voiture id:2189 supprimé de la carte.
+[-] Suppression | Voiture id:2188 supprimé de la carte.
+[+] Ajout | Voiture id:2190
+[+] Ajout | Voiture id:2191
+[!] Accident | (0,4)
+[-] Suppression | Voiture id:2186 supprimé de la carte.
+[-] Suppression | Voiture id:2187 supprimé de la carte.
+[-] Suppression | Voiture id:2191 supprimé de la carte.
+[-] Suppression | Voiture id:2190 supprimé de la carte.
+[+] Ajout | Voiture id:2192
+[+] Ajout | Voiture id:2193
+[+] Ajout | Voiture id:2194
+[+] Ajout | Voiture id:2195
+[!] Accident | (2,3)
+[+] Ajout | Voiture id:2196
+[+] Ajout | Voiture id:2197
+[-] Suppression | Voiture id:2194 supprimé de la carte.
+[-] Suppression | Voiture id:2195 supprimé de la carte.
+[-] Suppression | Voiture id:2192 supprimé de la carte.
+[-] Suppression | Voiture id:2193 supprimé de la carte.
+[+] Ajout | Voiture id:2198
+[+] Ajout | Voiture id:2199
+[!] Accident | (0,1)
+[-] Suppression | Voiture id:2199 supprimé de la carte.
+[-] Suppression | Voiture id:2198 supprimé de la carte.
+[+] Ajout | Voiture id:2200
+[+] Ajout | Voiture id:2201
+[!] Accident | (0,1)
+[-] Suppression | Voiture id:2196 supprimé de la carte.
+[-] Suppression | Voiture id:2197 supprimé de la carte.
+[-] Suppression | Voiture id:2201 supprimé de la carte.
+[-] Suppression | Voiture id:2200 supprimé de la carte.
+[+] Ajout | Voiture id:2202
+[+] Ajout | Voiture id:2203
+[+] Ajout | Voiture id:2204
+[+] Ajout | Voiture id:2205
+[!] Accident | (4,4)
+[+] Ajout | Voiture id:2206
+[+] Ajout | Voiture id:2207
+[-] Suppression | Voiture id:2203 supprimé de la carte.
+[-] Suppression | Voiture id:2205 supprimé de la carte.
+[-] Suppression | Voiture id:2202 supprimé de la carte.
+[+] Ajout | Voiture id:2208
+[+] Ajout | Voiture id:2209
+[-] Suppression | Voiture id:2204 supprimé de la carte.
+[+] Ajout | Voiture id:2210
+[+] Ajout | Voiture id:2211
+[-] Suppression | Voiture id:2206 supprimé de la carte.
+[-] Suppression | Voiture id:2207 supprimé de la carte.
+[+] Ajout | Voiture id:2212
+[+] Ajout | Voiture id:2213
+[!] Accident | (1,4)
+[-] Suppression | Voiture id:2208 supprimé de la carte.
+[-] Suppression | Voiture id:2209 supprimé de la carte.
+[+] Ajout | Voiture id:2214
+[+] Ajout | Voiture id:2215
+[-] Suppression | Voiture id:2212 supprimé de la carte.
+[-] Suppression | Voiture id:2213 supprimé de la carte.
+[-] Suppression | Voiture id:2210 supprimé de la carte.
+[-] Suppression | Voiture id:2211 supprimé de la carte.
+[+] Ajout | Voiture id:2216
+[+] Ajout | Voiture id:2217
+[+] Ajout | Voiture id:2218
+[+] Ajout | Voiture id:2219
+[-] Suppression | Voiture id:2214 supprimé de la carte.
+[-] Suppression | Voiture id:2215 supprimé de la carte.
+[+] Ajout | Voiture id:2220
+[+] Ajout | Voiture id:2221
+[-] Suppression | Voiture id:2216 supprimé de la carte.
+[-] Suppression | Voiture id:2217 supprimé de la carte.
+[+] Ajout | Voiture id:2222
+[+] Ajout | Voiture id:2223
+[!] Accident | (1,5)
+[-] Suppression | Voiture id:2218 supprimé de la carte.
+[-] Suppression | Voiture id:2219 supprimé de la carte.
+[-] Suppression | Voiture id:2223 supprimé de la carte.
+[-] Suppression | Voiture id:2222 supprimé de la carte.
+[+] Ajout | Voiture id:2224
+[+] Ajout | Voiture id:2225
+[-] Suppression | Voiture id:2220 supprimé de la carte.
+[-] Suppression | Voiture id:2221 supprimé de la carte.
+[+] Ajout | Voiture id:2226
+[+] Ajout | Voiture id:2227
+[!] Accident | (0,1)
+[!] Accident | (4,1)
+[-] Suppression | Voiture id:2227 supprimé de la carte.
+[-] Suppression | Voiture id:2226 supprimé de la carte.
+[+] Ajout | Voiture id:2228
+[+] Ajout | Voiture id:2229
+[-] Suppression | Voiture id:2224 supprimé de la carte.
+[-] Suppression | Voiture id:2225 supprimé de la carte.
+[+] Ajout | Voiture id:2230
+[+] Ajout | Voiture id:2231
+[!] Accident | (0,1)
+[-] Suppression | Voiture id:2231 supprimé de la carte.
+[-] Suppression | Voiture id:2230 supprimé de la carte.
+[+] Ajout | Voiture id:2232
+[+] Ajout | Voiture id:2233
+[!] Accident | (1,4)
+[-] Suppression | Voiture id:2228 supprimé de la carte.
+[-] Suppression | Voiture id:2229 supprimé de la carte.
+[+] Ajout | Voiture id:2234
+[+] Ajout | Voiture id:2235
+[-] Suppression | Voiture id:2232 supprimé de la carte.
+[-] Suppression | Voiture id:2233 supprimé de la carte.
+[!] Accident | (2,3)
+[+] Ajout | Voiture id:2236
+[+] Ajout | Voiture id:2237
+[-] Suppression | Voiture id:2234 supprimé de la carte.
+[-] Suppression | Voiture id:2235 supprimé de la carte.
+[+] Ajout | Voiture id:2238
+[+] Ajout | Voiture id:2239
+[+] Ajout | Voiture id:2240
+[+] Ajout | Voiture id:2241
+[-] Suppression | Voiture id:2236 supprimé de la carte.
+[-] Suppression | Voiture id:2237 supprimé de la carte.
+[+] Ajout | Voiture id:2242
+[+] Ajout | Voiture id:2243
+[-] Suppression | Voiture id:2238 supprimé de la carte.
+[-] Suppression | Voiture id:2239 supprimé de la carte.
+[+] Ajout | Voiture id:2244
+[+] Ajout | Voiture id:2245
+[!] Accident | (3,1)
+[-] Suppression | Voiture id:2240 supprimé de la carte.
+[-] Suppression | Voiture id:2241 supprimé de la carte.
+[+] Ajout | Voiture id:2246
+[+] Ajout | Voiture id:2247
+[!] Accident | (3,5)
+[-] Suppression | Voiture id:2243 supprimé de la carte.
+[-] Suppression | Voiture id:2242 supprimé de la carte.
+[-] Suppression | Voiture id:2247 supprimé de la carte.
+[-] Suppression | Voiture id:2246 supprimé de la carte.
+[+] Ajout | Voiture id:2248
+[+] Ajout | Voiture id:2249
+[!] Accident | (0,3)
+[-] Suppression | Voiture id:2244 supprimé de la carte.
+[-] Suppression | Voiture id:2245 supprimé de la carte.
+[-] Suppression | Voiture id:2249 supprimé de la carte.
+[-] Suppression | Voiture id:2248 supprimé de la carte.
+[+] Ajout | Voiture id:2250
+[+] Ajout | Voiture id:2251
+[+] Ajout | Voiture id:2252
+[+] Ajout | Voiture id:2253
+[!] Accident | (2,5)
+[-] Suppression | Voiture id:2253 supprimé de la carte.
+[-] Suppression | Voiture id:2252 supprimé de la carte.
+[+] Ajout | Voiture id:2254
+[+] Ajout | Voiture id:2255
+[-] Suppression | Voiture id:2250 supprimé de la carte.
+[-] Suppression | Voiture id:2251 supprimé de la carte.
+[+] Ajout | Voiture id:2256
+[+] Ajout | Voiture id:2257
+[+] Ajout | Voiture id:2258
+[+] Ajout | Voiture id:2259
+[-] Suppression | Voiture id:2254 supprimé de la carte.
+[-] Suppression | Voiture id:2255 supprimé de la carte.
+[+] Ajout | Voiture id:2260
+[+] Ajout | Voiture id:2261
+[-] Suppression | Voiture id:2256 supprimé de la carte.
+[-] Suppression | Voiture id:2257 supprimé de la carte.
+[+] Ajout | Voiture id:2262
+[+] Ajout | Voiture id:2263
+[-] Suppression | Voiture id:2258 supprimé de la carte.
+[-] Suppression | Voiture id:2259 supprimé de la carte.
+[+] Ajout | Voiture id:2264
+[+] Ajout | Voiture id:2265
+[-] Suppression | Voiture id:2260 supprimé de la carte.
+[-] Suppression | Voiture id:2261 supprimé de la carte.
+[+] Ajout | Voiture id:2266
+[+] Ajout | Voiture id:2267
+[-] Suppression | Voiture id:2262 supprimé de la carte.
+[-] Suppression | Voiture id:2263 supprimé de la carte.
+[+] Ajout | Voiture id:2268
+[+] Ajout | Voiture id:2269
+[-] Suppression | Voiture id:2264 supprimé de la carte.
+[-] Suppression | Voiture id:2265 supprimé de la carte.
+[+] Ajout | Voiture id:2270
+[+] Ajout | Voiture id:2271
+[-] Suppression | Voiture id:2266 supprimé de la carte.
+[-] Suppression | Voiture id:2267 supprimé de la carte.
+[+] Ajout | Voiture id:2272
+[+] Ajout | Voiture id:2273
+[!] Accident | (4,5)
+[-] Suppression | Voiture id:2268 supprimé de la carte.
+[-] Suppression | Voiture id:2269 supprimé de la carte.
+[-] Suppression | Voiture id:2273 supprimé de la carte.
+[-] Suppression | Voiture id:2272 supprimé de la carte.
+[+] Ajout | Voiture id:2274
+[+] Ajout | Voiture id:2275
+[!] Accident | (0,1)
+[-] Suppression | Voiture id:2270 supprimé de la carte.
+[-] Suppression | Voiture id:2271 supprimé de la carte.
+[-] Suppression | Voiture id:2275 supprimé de la carte.
+[-] Suppression | Voiture id:2274 supprimé de la carte.
+[+] Ajout | Voiture id:2276
+[+] Ajout | Voiture id:2277
+[+] Ajout | Voiture id:2278
+[+] Ajout | Voiture id:2279
+[+] Ajout | Voiture id:2280
+[+] Ajout | Voiture id:2281
+[!] Accident | (4,4)
+[-] Suppression | Voiture id:2276 supprimé de la carte.
+[-] Suppression | Voiture id:2277 supprimé de la carte.
+[+] Ajout | Voiture id:2282
+[+] Ajout | Voiture id:2283
+[-] Suppression | Voiture id:2279 supprimé de la carte.
+[-] Suppression | Voiture id:2281 supprimé de la carte.
+[-] Suppression | Voiture id:2278 supprimé de la carte.
+[+] Ajout | Voiture id:2284
+[+] Ajout | Voiture id:2285
+[-] Suppression | Voiture id:2280 supprimé de la carte.
+[+] Ajout | Voiture id:2286
+[+] Ajout | Voiture id:2287
+[!] Accident | (0,2)
+[-] Suppression | Voiture id:2282 supprimé de la carte.
+[-] Suppression | Voiture id:2283 supprimé de la carte.
+[-] Suppression | Voiture id:2287 supprimé de la carte.
+[-] Suppression | Voiture id:2286 supprimé de la carte.
+[+] Ajout | Voiture id:2288
+[+] Ajout | Voiture id:2289
+[-] Suppression | Voiture id:2284 supprimé de la carte.
+[-] Suppression | Voiture id:2285 supprimé de la carte.
+[+] Ajout | Voiture id:2290
+[+] Ajout | Voiture id:2291
+[!] Accident | (0,1)
+[!] Accident | (4,2)
+[-] Suppression | Voiture id:2291 supprimé de la carte.
+[-] Suppression | Voiture id:2290 supprimé de la carte.
+[+] Ajout | Voiture id:2292
+[+] Ajout | Voiture id:2293
+[-] Suppression | Voiture id:2289 supprimé de la carte.
+[-] Suppression | Voiture id:2288 supprimé de la carte.
+[+] Ajout | Voiture id:2294
+[+] Ajout | Voiture id:2295
+[+] Ajout | Voiture id:2296
+[+] Ajout | Voiture id:2297
+[!] Accident | (0,2)
+[-] Suppression | Voiture id:2292 supprimé de la carte.
+[-] Suppression | Voiture id:2293 supprimé de la carte.
+[-] Suppression | Voiture id:2297 supprimé de la carte.
+[-] Suppression | Voiture id:2296 supprimé de la carte.
+[+] Ajout | Voiture id:2298
+[+] Ajout | Voiture id:2299
+[-] Suppression | Voiture id:2294 supprimé de la carte.
+[-] Suppression | Voiture id:2295 supprimé de la carte.
+[+] Ajout | Voiture id:2300
+[+] Ajout | Voiture id:2301
+[!] Accident | (0,3)
+[-] Suppression | Voiture id:2301 supprimé de la carte.
+[-] Suppression | Voiture id:2300 supprimé de la carte.
+[+] Ajout | Voiture id:2302
+[+] Ajout | Voiture id:2303
+[-] Suppression | Voiture id:2298 supprimé de la carte.
+[-] Suppression | Voiture id:2299 supprimé de la carte.
+[+] Ajout | Voiture id:2304
+[+] Ajout | Voiture id:2305
+[!] Accident | (0,2)
+[-] Suppression | Voiture id:2305 supprimé de la carte.
+[-] Suppression | Voiture id:2304 supprimé de la carte.
+[+] Ajout | Voiture id:2306
+[+] Ajout | Voiture id:2307
+[-] Suppression | Voiture id:2302 supprimé de la carte.
+[-] Suppression | Voiture id:2303 supprimé de la carte.
+[+] Ajout | Voiture id:2308
+[+] Ajout | Voiture id:2309
+[+] Ajout | Voiture id:2310
+[+] Ajout | Voiture id:2311
+[-] Suppression | Voiture id:2306 supprimé de la carte.
+[-] Suppression | Voiture id:2307 supprimé de la carte.
+[+] Ajout | Voiture id:2312
+[+] Ajout | Voiture id:2313
+[!] Accident | (3,3)
+[!] Accident | (1,5)
+[-] Suppression | Voiture id:2308 supprimé de la carte.
+[-] Suppression | Voiture id:2309 supprimé de la carte.
+[-] Suppression | Voiture id:2311 supprimé de la carte.
+[-] Suppression | Voiture id:2310 supprimé de la carte.
+[-] Suppression | Voiture id:2313 supprimé de la carte.
+[-] Suppression | Voiture id:2312 supprimé de la carte.
+[+] Ajout | Voiture id:2314
+[+] Ajout | Voiture id:2315
+[+] Ajout | Voiture id:2316
+[+] Ajout | Voiture id:2317
+[!] Accident | (4,2)
+[+] Ajout | Voiture id:2318
+[+] Ajout | Voiture id:2319
+[!] Accident | (3,2)
+[-] Suppression | Voiture id:2315 supprimé de la carte.
+[-] Suppression | Voiture id:2314 supprimé de la carte.
+[-] Suppression | Voiture id:2316 supprimé de la carte.
+[-] Suppression | Voiture id:2317 supprimé de la carte.
+[+] Ajout | Voiture id:2320
+[+] Ajout | Voiture id:2321
+[+] Ajout | Voiture id:2322
+[+] Ajout | Voiture id:2323
+[-] Suppression | Voiture id:2318 supprimé de la carte.
+[-] Suppression | Voiture id:2319 supprimé de la carte.
+[+] Ajout | Voiture id:2324
+[+] Ajout | Voiture id:2325
+[-] Suppression | Voiture id:2320 supprimé de la carte.
+[-] Suppression | Voiture id:2321 supprimé de la carte.
+[+] Ajout | Voiture id:2326
+[+] Ajout | Voiture id:2327
+[-] Suppression | Voiture id:2322 supprimé de la carte.
+[-] Suppression | Voiture id:2323 supprimé de la carte.
+[+] Ajout | Voiture id:2328
+[+] Ajout | Voiture id:2329
+[!] Accident | (0,4)
+[-] Suppression | Voiture id:2324 supprimé de la carte.
+[-] Suppression | Voiture id:2325 supprimé de la carte.
+[-] Suppression | Voiture id:2329 supprimé de la carte.
+[-] Suppression | Voiture id:2328 supprimé de la carte.
+[+] Ajout | Voiture id:2330
+[+] Ajout | Voiture id:2331
+[-] Suppression | Voiture id:2326 supprimé de la carte.
+[-] Suppression | Voiture id:2327 supprimé de la carte.
+[+] Ajout | Voiture id:2332
+[+] Ajout | Voiture id:2333
+[+] Ajout | Voiture id:2334
+[+] Ajout | Voiture id:2335
+[-] Suppression | Voiture id:2330 supprimé de la carte.
+[-] Suppression | Voiture id:2331 supprimé de la carte.
+[+] Ajout | Voiture id:2336
+[+] Ajout | Voiture id:2337
+[!] Accident | (2,3)
+[-] Suppression | Voiture id:2332 supprimé de la carte.
+[-] Suppression | Voiture id:2333 supprimé de la carte.
+[+] Ajout | Voiture id:2338
+[+] Ajout | Voiture id:2339
+[!] Accident | (0,4)
+[-] Suppression | Voiture id:2336 supprimé de la carte.
+[-] Suppression | Voiture id:2337 supprimé de la carte.
+[-] Suppression | Voiture id:2334 supprimé de la carte.
+[-] Suppression | Voiture id:2335 supprimé de la carte.
+[-] Suppression | Voiture id:2339 supprimé de la carte.
+[-] Suppression | Voiture id:2338 supprimé de la carte.
+[+] Ajout | Voiture id:2340
+[+] Ajout | Voiture id:2341
+[+] Ajout | Voiture id:2342
+[+] Ajout | Voiture id:2343
+[!] Accident | (2,3)
+[+] Ajout | Voiture id:2344
+[+] Ajout | Voiture id:2345
+[!] Accident | (0,1)
+[-] Suppression | Voiture id:2342 supprimé de la carte.
+[-] Suppression | Voiture id:2343 supprimé de la carte.
+[-] Suppression | Voiture id:2340 supprimé de la carte.
+[-] Suppression | Voiture id:2341 supprimé de la carte.
+[-] Suppression | Voiture id:2345 supprimé de la carte.
+[-] Suppression | Voiture id:2344 supprimé de la carte.
+[+] Ajout | Voiture id:2346
+[+] Ajout | Voiture id:2347
+[+] Ajout | Voiture id:2348
+[+] Ajout | Voiture id:2349
+[!] Accident | (3,5)
+[-] Suppression | Voiture id:2349 supprimé de la carte.
+[-] Suppression | Voiture id:2348 supprimé de la carte.
+[+] Ajout | Voiture id:2350
+[+] Ajout | Voiture id:2351
+[-] Suppression | Voiture id:2346 supprimé de la carte.
+[-] Suppression | Voiture id:2347 supprimé de la carte.
+[+] Ajout | Voiture id:2352
+[+] Ajout | Voiture id:2353
+[!] Accident | (3,5)
+[!] Accident | (4,1)
+[-] Suppression | Voiture id:2353 supprimé de la carte.
+[-] Suppression | Voiture id:2352 supprimé de la carte.
+[+] Ajout | Voiture id:2354
+[+] Ajout | Voiture id:2355
+[-] Suppression | Voiture id:2350 supprimé de la carte.
+[-] Suppression | Voiture id:2351 supprimé de la carte.
+[+] Ajout | Voiture id:2356
+[+] Ajout | Voiture id:2357
+[+] Ajout | Voiture id:2358
+[+] Ajout | Voiture id:2359
+[-] Suppression | Voiture id:2354 supprimé de la carte.
+[-] Suppression | Voiture id:2355 supprimé de la carte.
+[+] Ajout | Voiture id:2360
+[+] Ajout | Voiture id:2361
+[-] Suppression | Voiture id:2356 supprimé de la carte.
+[-] Suppression | Voiture id:2357 supprimé de la carte.
+[+] Ajout | Voiture id:2362
+[+] Ajout | Voiture id:2363
+[-] Suppression | Voiture id:2358 supprimé de la carte.
+[-] Suppression | Voiture id:2359 supprimé de la carte.
+[+] Ajout | Voiture id:2364
+[+] Ajout | Voiture id:2365
+[-] Suppression | Voiture id:2360 supprimé de la carte.
+[-] Suppression | Voiture id:2361 supprimé de la carte.
+[+] Ajout | Voiture id:2366
+[+] Ajout | Voiture id:2367
+[-] Suppression | Voiture id:2362 supprimé de la carte.
+[-] Suppression | Voiture id:2363 supprimé de la carte.
+[+] Ajout | Voiture id:2368
+[+] Ajout | Voiture id:2369
+[-] Suppression | Voiture id:2364 supprimé de la carte.
+[-] Suppression | Voiture id:2365 supprimé de la carte.
+[+] Ajout | Voiture id:2370
+[+] Ajout | Voiture id:2371
+[-] Suppression | Voiture id:2366 supprimé de la carte.
+[-] Suppression | Voiture id:2367 supprimé de la carte.
+[+] Ajout | Voiture id:2372
+[+] Ajout | Voiture id:2373
+[-] Suppression | Voiture id:2368 supprimé de la carte.
+[-] Suppression | Voiture id:2369 supprimé de la carte.
+[+] Ajout | Voiture id:2374
+[+] Ajout | Voiture id:2375
+[-] Suppression | Voiture id:2370 supprimé de la carte.
+[-] Suppression | Voiture id:2371 supprimé de la carte.
+[+] Ajout | Voiture id:2376
+[+] Ajout | Voiture id:2377
+[!] Accident | (0,4)
+[!] Accident | (3,1)
+[-] Suppression | Voiture id:2372 supprimé de la carte.
+[-] Suppression | Voiture id:2373 supprimé de la carte.
+[-] Suppression | Voiture id:2377 supprimé de la carte.
+[-] Suppression | Voiture id:2376 supprimé de la carte.
+[+] Ajout | Voiture id:2378
+[+] Ajout | Voiture id:2379
+[-] Suppression | Voiture id:2375 supprimé de la carte.
+[-] Suppression | Voiture id:2374 supprimé de la carte.
+[+] Ajout | Voiture id:2380
+[+] Ajout | Voiture id:2381
+[!] Accident | (3,1)
+[+] Ajout | Voiture id:2382
+[+] Ajout | Voiture id:2383
+[-] Suppression | Voiture id:2379 supprimé de la carte.
+[-] Suppression | Voiture id:2378 supprimé de la carte.
+[!] Accident | (4,4)
+[+] Ajout | Voiture id:2384
+[+] Ajout | Voiture id:2385
+[-] Suppression | Voiture id:2380 supprimé de la carte.
+[-] Suppression | Voiture id:2382 supprimé de la carte.
+[!] Accident | (1,1)
+[-] Suppression | Voiture id:2381 supprimé de la carte.
+[+] Ajout | Voiture id:2386
+[+] Ajout | Voiture id:2387
+[-] Suppression | Voiture id:2383 supprimé de la carte.
+[-] Suppression | Voiture id:2384 supprimé de la carte.
+[!] Accident | (1,1)
+[+] Ajout | Voiture id:2388
+[+] Ajout | Voiture id:2389
+[-] Suppression | Voiture id:2385 supprimé de la carte.
+[-] Suppression | Voiture id:2386 supprimé de la carte.
+[+] Ajout | Voiture id:2390
+[+] Ajout | Voiture id:2391
+[!] Accident | (4,4)
+[-] Suppression | Voiture id:2387 supprimé de la carte.
+[+] Ajout | Voiture id:2392
+[+] Ajout | Voiture id:2393
+[-] Suppression | Voiture id:2389 supprimé de la carte.
+[-] Suppression | Voiture id:2390 supprimé de la carte.
+[-] Suppression | Voiture id:2388 supprimé de la carte.
+[+] Ajout | Voiture id:2394
+[+] Ajout | Voiture id:2395
+[-] Suppression | Voiture id:2391 supprimé de la carte.
+[+] Ajout | Voiture id:2396
+[+] Ajout | Voiture id:2397
+[-] Suppression | Voiture id:2392 supprimé de la carte.
+[-] Suppression | Voiture id:2393 supprimé de la carte.
+[+] Ajout | Voiture id:2398
+[+] Ajout | Voiture id:2399
+[-] Suppression | Voiture id:2394 supprimé de la carte.
+[-] Suppression | Voiture id:2395 supprimé de la carte.
+[+] Ajout | Voiture id:2400
+[+] Ajout | Voiture id:2401
+[!] Accident | (3,2)
+[!] Accident | (0,4)
+[-] Suppression | Voiture id:2396 supprimé de la carte.
+[-] Suppression | Voiture id:2397 supprimé de la carte.
+[-] Suppression | Voiture id:2398 supprimé de la carte.
+[-] Suppression | Voiture id:2399 supprimé de la carte.
+[-] Suppression | Voiture id:2401 supprimé de la carte.
+[-] Suppression | Voiture id:2400 supprimé de la carte.
+[+] Ajout | Voiture id:2402
+[+] Ajout | Voiture id:2403
+[+] Ajout | Voiture id:2404
+[+] Ajout | Voiture id:2405
+[+] Ajout | Voiture id:2406
+[+] Ajout | Voiture id:2407
+[!] Accident | (0,4)
+[-] Suppression | Voiture id:2402 supprimé de la carte.
+[-] Suppression | Voiture id:2403 supprimé de la carte.
+[-] Suppression | Voiture id:2407 supprimé de la carte.
+[-] Suppression | Voiture id:2406 supprimé de la carte.
+[+] Ajout | Voiture id:2408
+[+] Ajout | Voiture id:2409
+[-] Suppression | Voiture id:2404 supprimé de la carte.
+[-] Suppression | Voiture id:2405 supprimé de la carte.
+[+] Ajout | Voiture id:2410
+[+] Ajout | Voiture id:2411
+[!] Accident | (1,1)
+[+] Ajout | Voiture id:2412
+[+] Ajout | Voiture id:2413
+[!] Accident | (0,3)
+[-] Suppression | Voiture id:2408 supprimé de la carte.
+[-] Suppression | Voiture id:2411 supprimé de la carte.
+[-] Suppression | Voiture id:2409 supprimé de la carte.
+[-] Suppression | Voiture id:2413 supprimé de la carte.
+[-] Suppression | Voiture id:2412 supprimé de la carte.
+[+] Ajout | Voiture id:2414
+[+] Ajout | Voiture id:2415
+[-] Suppression | Voiture id:2410 supprimé de la carte.
+[+] Ajout | Voiture id:2416
+[+] Ajout | Voiture id:2417
+[!] Accident | (2,5)
+[-] Suppression | Voiture id:2417 supprimé de la carte.
+[-] Suppression | Voiture id:2416 supprimé de la carte.
+[+] Ajout | Voiture id:2418
+[+] Ajout | Voiture id:2419
+[!] Accident | (2,5)
+[-] Suppression | Voiture id:2414 supprimé de la carte.
+[-] Suppression | Voiture id:2415 supprimé de la carte.
+[-] Suppression | Voiture id:2419 supprimé de la carte.
+[-] Suppression | Voiture id:2418 supprimé de la carte.
+[+] Ajout | Voiture id:2420
+[+] Ajout | Voiture id:2421
+[+] Ajout | Voiture id:2422
+[+] Ajout | Voiture id:2423
+[+] Ajout | Voiture id:2424
+[+] Ajout | Voiture id:2425
+[-] Suppression | Voiture id:2420 supprimé de la carte.
+[-] Suppression | Voiture id:2421 supprimé de la carte.
+[+] Ajout | Voiture id:2426
+[+] Ajout | Voiture id:2427
+[!] Accident | (3,2)
+[-] Suppression | Voiture id:2422 supprimé de la carte.
+[-] Suppression | Voiture id:2423 supprimé de la carte.
+[-] Suppression | Voiture id:2424 supprimé de la carte.
+[-] Suppression | Voiture id:2425 supprimé de la carte.
+[+] Ajout | Voiture id:2428
+[+] Ajout | Voiture id:2429
+[+] Ajout | Voiture id:2430
+[+] Ajout | Voiture id:2431
+[-] Suppression | Voiture id:2426 supprimé de la carte.
+[-] Suppression | Voiture id:2427 supprimé de la carte.
+[+] Ajout | Voiture id:2432
+[+] Ajout | Voiture id:2433
+[!] Accident | (2,4)
+[-] Suppression | Voiture id:2428 supprimé de la carte.
+[-] Suppression | Voiture id:2429 supprimé de la carte.
+[+] Ajout | Voiture id:2434
+[+] Ajout | Voiture id:2435
+[!] Accident | (2,4)
+[-] Suppression | Voiture id:2433 supprimé de la carte.
+[-] Suppression | Voiture id:2432 supprimé de la carte.
+[-] Suppression | Voiture id:2430 supprimé de la carte.
+[-] Suppression | Voiture id:2431 supprimé de la carte.
+[+] Ajout | Voiture id:2436
+[+] Ajout | Voiture id:2437
+[-] Suppression | Voiture id:2432 supprimé de la carte.
+[-] Suppression | Voiture id:2435 supprimé de la carte.
+[+] Ajout | Voiture id:2438
+[+] Ajout | Voiture id:2439
+[-] Suppression | Voiture id:2434 supprimé de la carte.
+[+] Ajout | Voiture id:2440
+[+] Ajout | Voiture id:2441
+[!] Accident | (4,4)
+[-] Suppression | Voiture id:2436 supprimé de la carte.
+[-] Suppression | Voiture id:2437 supprimé de la carte.
+[+] Ajout | Voiture id:2442
+[+] Ajout | Voiture id:2443
+[!] Accident | (0,1)
+[-] Suppression | Voiture id:2439 supprimé de la carte.
+[-] Suppression | Voiture id:2440 supprimé de la carte.
+[-] Suppression | Voiture id:2438 supprimé de la carte.
+[-] Suppression | Voiture id:2443 supprimé de la carte.
+[-] Suppression | Voiture id:2442 supprimé de la carte.
+[+] Ajout | Voiture id:2444
+[+] Ajout | Voiture id:2445
+[-] Suppression | Voiture id:2441 supprimé de la carte.
+[+] Ajout | Voiture id:2446
+[+] Ajout | Voiture id:2447
+[+] Ajout | Voiture id:2448
+[+] Ajout | Voiture id:2449
+[!] Accident | (3,3)
+[!] Accident | (0,1)
+[-] Suppression | Voiture id:2444 supprimé de la carte.
+[-] Suppression | Voiture id:2445 supprimé de la carte.
+[-] Suppression | Voiture id:2447 supprimé de la carte.
+[-] Suppression | Voiture id:2446 supprimé de la carte.
+[-] Suppression | Voiture id:2449 supprimé de la carte.
+[-] Suppression | Voiture id:2448 supprimé de la carte.
+[+] Ajout | Voiture id:2450
+[+] Ajout | Voiture id:2451
+[!] Accident | (4,5)
+[-] Suppression | Voiture id:2451 supprimé de la carte.
+[-] Suppression | Voiture id:2450 supprimé de la carte.
+[+] Ajout | Voiture id:2452
+[+] Ajout | Voiture id:2453
+[+] Ajout | Voiture id:2454
+[+] Ajout | Voiture id:2455
+[+] Ajout | Voiture id:2456
+[+] Ajout | Voiture id:2457
+[-] Suppression | Voiture id:2452 supprimé de la carte.
+[-] Suppression | Voiture id:2453 supprimé de la carte.
+[+] Ajout | Voiture id:2458
+[+] Ajout | Voiture id:2459
+[-] Suppression | Voiture id:2454 supprimé de la carte.
+[-] Suppression | Voiture id:2455 supprimé de la carte.
+[+] Ajout | Voiture id:2460
+[+] Ajout | Voiture id:2461
+[-] Suppression | Voiture id:2456 supprimé de la carte.
+[-] Suppression | Voiture id:2457 supprimé de la carte.
+[+] Ajout | Voiture id:2462
+[+] Ajout | Voiture id:2463
+[!] Accident | (1,1)
+[-] Suppression | Voiture id:2458 supprimé de la carte.
+[-] Suppression | Voiture id:2459 supprimé de la carte.
+[+] Ajout | Voiture id:2464
+[+] Ajout | Voiture id:2465
+[!] Accident | (3,5)
+[-] Suppression | Voiture id:2460 supprimé de la carte.
+[-] Suppression | Voiture id:2463 supprimé de la carte.
+[-] Suppression | Voiture id:2461 supprimé de la carte.
+[-] Suppression | Voiture id:2465 supprimé de la carte.
+[-] Suppression | Voiture id:2464 supprimé de la carte.
+[+] Ajout | Voiture id:2466
+[+] Ajout | Voiture id:2467
+[-] Suppression | Voiture id:2462 supprimé de la carte.
+[+] Ajout | Voiture id:2468
+[+] Ajout | Voiture id:2469
+[+] Ajout | Voiture id:2470
+[+] Ajout | Voiture id:2471
+[!] Accident | (3,1)
+[-] Suppression | Voiture id:2466 supprimé de la carte.
+[-] Suppression | Voiture id:2467 supprimé de la carte.
+[+] Ajout | Voiture id:2472
+[+] Ajout | Voiture id:2473
+[!] Accident | (3,1)
+[-] Suppression | Voiture id:2469 supprimé de la carte.
+[-] Suppression | Voiture id:2468 supprimé de la carte.
+[-] Suppression | Voiture id:2468 supprimé de la carte.
+[-] Suppression | Voiture id:2470 supprimé de la carte.
+[+] Ajout | Voiture id:2474
+[+] Ajout | Voiture id:2475
+[!] Accident | (4,4)
+[-] Suppression | Voiture id:2471 supprimé de la carte.
+[+] Ajout | Voiture id:2476
+[+] Ajout | Voiture id:2477
+[-] Suppression | Voiture id:2473 supprimé de la carte.
+[-] Suppression | Voiture id:2474 supprimé de la carte.
+[-] Suppression | Voiture id:2472 supprimé de la carte.
+[+] Ajout | Voiture id:2478
+[+] Ajout | Voiture id:2479
+[!] Accident | (4,4)
+[-] Suppression | Voiture id:2475 supprimé de la carte.
+[+] Ajout | Voiture id:2480
+[+] Ajout | Voiture id:2481
+[-] Suppression | Voiture id:2477 supprimé de la carte.
+[-] Suppression | Voiture id:2478 supprimé de la carte.
+[-] Suppression | Voiture id:2476 supprimé de la carte.
+[+] Ajout | Voiture id:2482
+[+] Ajout | Voiture id:2483
+[-] Suppression | Voiture id:2479 supprimé de la carte.
+[+] Ajout | Voiture id:2484
+[+] Ajout | Voiture id:2485
+[-] Suppression | Voiture id:2480 supprimé de la carte.
+[-] Suppression | Voiture id:2481 supprimé de la carte.
+[+] Ajout | Voiture id:2486
+[+] Ajout | Voiture id:2487
+[!] Accident | (2,3)
+[-] Suppression | Voiture id:2482 supprimé de la carte.
+[-] Suppression | Voiture id:2483 supprimé de la carte.
+[+] Ajout | Voiture id:2488
+[+] Ajout | Voiture id:2489
+[-] Suppression | Voiture id:2486 supprimé de la carte.
+[-] Suppression | Voiture id:2487 supprimé de la carte.
+[-] Suppression | Voiture id:2484 supprimé de la carte.
+[-] Suppression | Voiture id:2485 supprimé de la carte.
+[+] Ajout | Voiture id:2490
+[+] Ajout | Voiture id:2491
+[!] Accident | (3,2)
+[-] Suppression | Voiture id:2488 supprimé de la carte.
+[-] Suppression | Voiture id:2489 supprimé de la carte.
+[+] Ajout | Voiture id:2492
+[+] Ajout | Voiture id:2493
+[+] Ajout | Voiture id:2494
+[+] Ajout | Voiture id:2495
+[-] Suppression | Voiture id:2490 supprimé de la carte.
+[-] Suppression | Voiture id:2491 supprimé de la carte.
+[+] Ajout | Voiture id:2496
+[+] Ajout | Voiture id:2497
+[!] Accident | (3,5)
+[-] Suppression | Voiture id:2492 supprimé de la carte.
+[-] Suppression | Voiture id:2493 supprimé de la carte.
+[-] Suppression | Voiture id:2497 supprimé de la carte.
+[-] Suppression | Voiture id:2496 supprimé de la carte.
+[+] Ajout | Voiture id:2498
+[+] Ajout | Voiture id:2499
