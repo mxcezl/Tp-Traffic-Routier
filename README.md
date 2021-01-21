@@ -1,5 +1,7 @@
 # Traffic Routier
 Application Java simulant des véhicules circulants en ligne droite avec gestion des collisions.
+Les vehicules étant arrivés à destination ainsi que les véhicules accidentés sont supprimés de la carte tout les 3 cycles.
+Deux nouveaux véhicules apparaissent aléatoirement sur la carte tout les 3 cycles également. 
 # Legende
 | Couleur | Etat |
 | ------ | ------ |
